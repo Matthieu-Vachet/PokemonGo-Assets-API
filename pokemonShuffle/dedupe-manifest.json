@@ -1,0 +1,3549 @@
+{
+  "generatedAt": "2026-06-15T15:35:32.448Z",
+  "basis": "same dexId, slug and semanticParts; confirmed visually by user",
+  "totals": {
+    "before": 10754,
+    "removed": 442,
+    "remaining": 10312,
+    "identicalBytes": 57,
+    "visuallyEquivalentDifferentBytes": 385
+  },
+  "removed": [
+    {
+      "removedFilename": "0001_bulbasaur_shadow_2.png",
+      "oldFilename": "1_f164.png",
+      "keptFilename": "0001_bulbasaur_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "23d4c3f1ec908bfca166ebd40c77995f01b69267771a4d88a1152c4c5e53ea96",
+      "keptSha256": "d5ad39fb69a05b0fe0848a837d60edf17c86e19460f8072f193947e1985dbfaa"
+    },
+    {
+      "removedFilename": "0001_bulbasaur_purified_2.png",
+      "oldFilename": "1_f165.png",
+      "keptFilename": "0001_bulbasaur_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "65b28af2d58f0c3a15f7074cea2323a06c89c25a048c60d451c16a199e0a129d",
+      "keptSha256": "91a6df9d45dba68412ffde7d32bcc5140c63f70947d293abebaf1384fe4234a5"
+    },
+    {
+      "removedFilename": "0001_bulbasaur_dynamax_chromatique_2.png",
+      "oldFilename": "1_b1_f163_s.png",
+      "keptFilename": "0001_bulbasaur_dynamax_chromatique.png",
+      "identicalBytes": true,
+      "removedSha256": "14f93ee32d2ef2c48970805965085b1b46770f6c3ef44dbb18a8f8dcb3ff3793",
+      "keptSha256": "14f93ee32d2ef2c48970805965085b1b46770f6c3ef44dbb18a8f8dcb3ff3793"
+    },
+    {
+      "removedFilename": "0001_bulbasaur_dynamax_2.png",
+      "oldFilename": "1_b1_f163.png",
+      "keptFilename": "0001_bulbasaur_dynamax.png",
+      "identicalBytes": true,
+      "removedSha256": "abc966f25fd0ff3dd5c5a6731fcc1f4e8de7f8a3a70dddf05ceb6913de769be7",
+      "keptSha256": "abc966f25fd0ff3dd5c5a6731fcc1f4e8de7f8a3a70dddf05ceb6913de769be7"
+    },
+    {
+      "removedFilename": "0001_bulbasaur_normal_2.png",
+      "oldFilename": "1_f163.png",
+      "keptFilename": "0001_bulbasaur_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "258713da2b793e28165db0b3c2608937445af86c8e334d1d7901acb4730cdc80",
+      "keptSha256": "258713da2b793e28165db0b3c2608937445af86c8e334d1d7901acb4730cdc80"
+    },
+    {
+      "removedFilename": "0002_ivysaur_shadow_2.png",
+      "oldFilename": "2_f167.png",
+      "keptFilename": "0002_ivysaur_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "a7bedd09e0d8ac466f864af8a6f8b9da60bf8da7156143eee23d944df09262f9",
+      "keptSha256": "84b49229dcce6c8a391ab865344adc46e951be9743e8bb8ae18fd6e98c93c0bb"
+    },
+    {
+      "removedFilename": "0002_ivysaur_purified_2.png",
+      "oldFilename": "2_f168.png",
+      "keptFilename": "0002_ivysaur_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "a4354043c8833b4dd2f60c6ebe99947e4217e349df99ceb52d67b8e736297757",
+      "keptSha256": "b993cc3cd904a7ac87b5fe753063cbff4bbbc40c63f6d87b43d7232f788e7adc"
+    },
+    {
+      "removedFilename": "0002_ivysaur_dynamax_2.png",
+      "oldFilename": "2_b1_f166.png",
+      "keptFilename": "0002_ivysaur_dynamax.png",
+      "identicalBytes": true,
+      "removedSha256": "2363c64caf279a2eef8816f4bf4e6190c60bcf3dee0440f126ffa542b88fb669",
+      "keptSha256": "2363c64caf279a2eef8816f4bf4e6190c60bcf3dee0440f126ffa542b88fb669"
+    },
+    {
+      "removedFilename": "0002_ivysaur_normal_2.png",
+      "oldFilename": "2_f166.png",
+      "keptFilename": "0002_ivysaur_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "6f243a81debe1ba964e85a052519cd367de1483a9a1942d39b8e4022bc4c992f",
+      "keptSha256": "6f243a81debe1ba964e85a052519cd367de1483a9a1942d39b8e4022bc4c992f"
+    },
+    {
+      "removedFilename": "0003_venusaur_shadow_2.png",
+      "oldFilename": "3_f170.png",
+      "keptFilename": "0003_venusaur_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "6667fa506727d03b37f016907173d166ebdfaf5efb295fbb3f1f24083997b449",
+      "keptSha256": "db23639d03d587e31e88101625e855676bac2c8099de72feede6658be8fb1cd1"
+    },
+    {
+      "removedFilename": "0003_venusaur_purified_2.png",
+      "oldFilename": "3_f171.png",
+      "keptFilename": "0003_venusaur_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "2a35ea1010b937b8531afe1fecb8e58a6285449f2680bf3b6d2b6d5eb55cee46",
+      "keptSha256": "4a4ecabe8334531547a29518d79719ce9dfb3b49ca8649b3ab7de76334894e73"
+    },
+    {
+      "removedFilename": "0003_venusaur_dynamax_2.png",
+      "oldFilename": "3_b1_f169.png",
+      "keptFilename": "0003_venusaur_dynamax.png",
+      "identicalBytes": true,
+      "removedSha256": "60b3cc3a7518c2ffceb19206276d44bc2489cbe9408d2d1d95990100a90aa2aa",
+      "keptSha256": "60b3cc3a7518c2ffceb19206276d44bc2489cbe9408d2d1d95990100a90aa2aa"
+    },
+    {
+      "removedFilename": "0003_venusaur_gigantamax_2.png",
+      "oldFilename": "3_b2_f169.png",
+      "keptFilename": "0003_venusaur_gigantamax.png",
+      "identicalBytes": true,
+      "removedSha256": "d98c4f93142328e4e2adefe45ce9b60e284c8888dfeb985c4d686f7809221079",
+      "keptSha256": "d98c4f93142328e4e2adefe45ce9b60e284c8888dfeb985c4d686f7809221079"
+    },
+    {
+      "removedFilename": "0003_venusaur_mega_chromatique_2.png",
+      "oldFilename": "3_e1_f169_s.png",
+      "keptFilename": "0003_venusaur_mega_chromatique.png",
+      "identicalBytes": true,
+      "removedSha256": "ee79dc530defe599f561638c98d645636c2e1a6521f450f3befe63ef62ab0953",
+      "keptSha256": "ee79dc530defe599f561638c98d645636c2e1a6521f450f3befe63ef62ab0953"
+    },
+    {
+      "removedFilename": "0003_venusaur_mega_2.png",
+      "oldFilename": "3_e1_f169.png",
+      "keptFilename": "0003_venusaur_mega.png",
+      "identicalBytes": true,
+      "removedSha256": "241cab24802eb1908b07ba40b46e58bcd70c997c4222aecb62e50eda1c65549b",
+      "keptSha256": "241cab24802eb1908b07ba40b46e58bcd70c997c4222aecb62e50eda1c65549b"
+    },
+    {
+      "removedFilename": "0003_venusaur_normal_2.png",
+      "oldFilename": "3_f169.png",
+      "keptFilename": "0003_venusaur_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "44da7fe7119ec5495ee70d55132951f87d64ac22efd77a82a0f8e660093c9f79",
+      "keptSha256": "44da7fe7119ec5495ee70d55132951f87d64ac22efd77a82a0f8e660093c9f79"
+    },
+    {
+      "removedFilename": "0004_charmander_shadow_2.png",
+      "oldFilename": "4_f173.png",
+      "keptFilename": "0004_charmander_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "d36f45d7b13a0f9f993d2bc36c4322b4bbaba616cd2971d03be95babb51f46cf",
+      "keptSha256": "1a14e9f469a84ac71eac4e054c95ab419e4e5aeedc9b1f503e077f85638393af"
+    },
+    {
+      "removedFilename": "0004_charmander_purified_2.png",
+      "oldFilename": "4_f174.png",
+      "keptFilename": "0004_charmander_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ff639006f03ee4cd16bca06ab0faaff6fd8a19ba26e4d88afc967999137b7ad5",
+      "keptSha256": "a8b8f000caea5971aba2ce52c8404f41f32c3ab40db5c8081b8ac20af0e066cd"
+    },
+    {
+      "removedFilename": "0005_charmeleon_shadow_2.png",
+      "oldFilename": "5_f176.png",
+      "keptFilename": "0005_charmeleon_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "555541c84a75addc77885255c0f676c4f2ab3d5f7dc9d9addec5de0ba49b2d0a",
+      "keptSha256": "ff94f1949caedb59789c5765c5178f592f84d4c49bd6f38b12d5af304d84d348"
+    },
+    {
+      "removedFilename": "0005_charmeleon_purified_2.png",
+      "oldFilename": "5_f177.png",
+      "keptFilename": "0005_charmeleon_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "8fb2e255acf2feb2c7ce6ffb6a5e6429efcd340c616a6c181a4379e7a0b1588d",
+      "keptSha256": "2e5d1894390d9f251a0a3685766f99969d6238f900b9f1f388210ffaf89458fd"
+    },
+    {
+      "removedFilename": "0006_charizard_shadow_2.png",
+      "oldFilename": "6_f179.png",
+      "keptFilename": "0006_charizard_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "83b9f75fbc1e63e07416ecc9234b2dea8600f7b8853ef7a89f5e984e846abae6",
+      "keptSha256": "f69372620cd3a90b7fe34eee550d23442cf0e2feeb6432d48aedfda894bdfe7d"
+    },
+    {
+      "removedFilename": "0006_charizard_purified_2.png",
+      "oldFilename": "6_f180.png",
+      "keptFilename": "0006_charizard_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "281d9391532401047f4b94a99d70c66b6efa0d78461b49e4dc423f26e9f6cfaa",
+      "keptSha256": "25eef7e555895970477349393ac3cb4a48a8f6f39d70eaa19e9f15bb7e387bf4"
+    },
+    {
+      "removedFilename": "0007_squirtle_shadow_2.png",
+      "oldFilename": "7_f182.png",
+      "keptFilename": "0007_squirtle_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "12b75ed58b8c42486d494353055722ca0f2853ba4b15594546d4484cf97c827f",
+      "keptSha256": "dbbfa74b8c937b492da8b1aaaf4c72cb2c7c52c52811ef9ee4f338c434fd2fec"
+    },
+    {
+      "removedFilename": "0007_squirtle_purified_2.png",
+      "oldFilename": "7_f183.png",
+      "keptFilename": "0007_squirtle_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "1efc54c81d81fb8af11c429f8a85fd84f912d0bec1aee4adf48e139f35b435a8",
+      "keptSha256": "1be13d2230a3912f976ff180b97b37f52456ebe3bb43761e649a857295e63aa0"
+    },
+    {
+      "removedFilename": "0008_wartortle_shadow_2.png",
+      "oldFilename": "8_f185.png",
+      "keptFilename": "0008_wartortle_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "f423ac1c98b11e7bd1cfe28f228e21d2b5664682d8c8b7e96b088343aa263a39",
+      "keptSha256": "da5d8293d2f7cbd35f435d96e622632269439b450f8362b975a1a22ab9bc1235"
+    },
+    {
+      "removedFilename": "0008_wartortle_purified_2.png",
+      "oldFilename": "8_f186.png",
+      "keptFilename": "0008_wartortle_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "bea27192b9dd5e5f12a06acdbadcd971d2bdf1304439279ec0de88eff9a1e6d8",
+      "keptSha256": "759e370359c817348c1c2afbf86febf663c80b178fea0105cff1feac4e08a286"
+    },
+    {
+      "removedFilename": "0009_blastoise_shadow_2.png",
+      "oldFilename": "9_f188.png",
+      "keptFilename": "0009_blastoise_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "45e733e7230a31a3b5d56db101a6159c1206f2bd21a4f3f3cc7a521a80d7c110",
+      "keptSha256": "5c65f702a439bbce54ff4902375fb29a6c9d079e803b1f63e9f3f5682a0269b3"
+    },
+    {
+      "removedFilename": "0009_blastoise_purified_2.png",
+      "oldFilename": "9_f189.png",
+      "keptFilename": "0009_blastoise_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "eb87efefc74ef5d11a2c0e420d1fa4a3b619e8ce62e9c3f6a107b19b94a82a48",
+      "keptSha256": "f3e9aaadaa6c7c5407840baf4f688ea7e765e2bb8a317de234b66a09f3908e5f"
+    },
+    {
+      "removedFilename": "0013_weedle_shadow_2.png",
+      "oldFilename": "13_f617.png",
+      "keptFilename": "0013_weedle_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "f37cf986b707bc59392b380b62aede58c0390c93ead86aa75c409e46908b2553",
+      "keptSha256": "00228935bb86efacac80f5e29a3346499e4021f25e67860fb3a892c5bee3da55"
+    },
+    {
+      "removedFilename": "0013_weedle_purified_2.png",
+      "oldFilename": "13_f618.png",
+      "keptFilename": "0013_weedle_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "834a78719cae51e976d0cef05f7c359dd98b93ae553f581505c8c44563871fad",
+      "keptSha256": "920ef3215c80c4e736bcc7a6b6a1d63999c57aaf0d2ad7aca07c3b2b1b1d6063"
+    },
+    {
+      "removedFilename": "0014_kakuna_shadow_2.png",
+      "oldFilename": "14_f620.png",
+      "keptFilename": "0014_kakuna_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "6325d9d9f2c98a1dcd5db4d35bb3968007dfbd6900f935d4bd89ee6eda840b47",
+      "keptSha256": "05177f2d688041296bab7cef6e141bf2e28303c7883cf706b3805d2d1efbe9bc"
+    },
+    {
+      "removedFilename": "0014_kakuna_purified_2.png",
+      "oldFilename": "14_f621.png",
+      "keptFilename": "0014_kakuna_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "8229e74b95a1b742c00daec4aeeca318907d052044a8eb7e6fa3d2c73bfbfc5d",
+      "keptSha256": "c7051e7f2229411a85da40912f0be2e1d81fc1de14e01902e81e5bb869549f0b"
+    },
+    {
+      "removedFilename": "0015_beedrill_shadow_2.png",
+      "oldFilename": "15_f623.png",
+      "keptFilename": "0015_beedrill_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "deb5f4a57da787ecd50ed6d46e853f6abb1d28d6e917f933c7ef56d2f6e00631",
+      "keptSha256": "dfd27e652a343212f9b229d4af0673c975af31908fa0a42fe5d50a5613c80e57"
+    },
+    {
+      "removedFilename": "0015_beedrill_purified_2.png",
+      "oldFilename": "15_f624.png",
+      "keptFilename": "0015_beedrill_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "151d81de426d379bf57da8592add3f027dba431e5aa2ff2bce8fe8295f5c55e1",
+      "keptSha256": "5b30759db7c4250dec5a5d2faf4d0cbcfeacf24a77ae359c4f2e51b526421142"
+    },
+    {
+      "removedFilename": "0019_rattata_shadow_2.png",
+      "oldFilename": "19_f153.png",
+      "keptFilename": "0019_rattata_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "9d7373e6a4e6e7420e6e3a99e3713e0df6f10020ea4e1d86c431450c5fa5a1ec",
+      "keptSha256": "caf6ffaae92fcdb79a30f150fc2be83129deeb73c4fb4e6fd7c9e5559c6f71b9"
+    },
+    {
+      "removedFilename": "0019_rattata_purified_2.png",
+      "oldFilename": "19_f154.png",
+      "keptFilename": "0019_rattata_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "61fbbd839e0b1be2a510e826951392e1bda852b61e9d35b12c7ea8609c8f0c75",
+      "keptSha256": "8a52722691db500f5b80beddc246579fd07248c3001d68819c3b72667d6e02d4"
+    },
+    {
+      "removedFilename": "0020_raticate_shadow_2.png",
+      "oldFilename": "20_f155.png",
+      "keptFilename": "0020_raticate_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5cc03cd9f53c6b6d6219ca104d0dbafe84a0145e601e9358a29cedec43b9864f",
+      "keptSha256": "3afd89f589c6bf5bbb7fce1a7b1c55a7655960960c49a93336d3576a8c1c3d56"
+    },
+    {
+      "removedFilename": "0020_raticate_purified_2.png",
+      "oldFilename": "20_f156.png",
+      "keptFilename": "0020_raticate_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "a9cd13427bb3349a89c8feec6ee9309e576c1424a91a6a6682432f5e6d31e54d",
+      "keptSha256": "a4e61bb54bc70e9f358e303777b61cba2b7f4edf3042f01e90d083b10534b714"
+    },
+    {
+      "removedFilename": "0023_ekans_shadow_2.png",
+      "oldFilename": "23_f698.png",
+      "keptFilename": "0023_ekans_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "49a32ce34a1168fe6259c2d471574a90dd204bae64911cc56eaf9d9ffa921dff",
+      "keptSha256": "69333b386f7a349b50cf2962b82b62c138107c3c9a7c414d4b2d8efdc4bc3766"
+    },
+    {
+      "removedFilename": "0023_ekans_purified_2.png",
+      "oldFilename": "23_f699.png",
+      "keptFilename": "0023_ekans_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "4272e02cd8d45eb407543d4f4af74d27080ff006985841d88c22a8d8b958351d",
+      "keptSha256": "d09bcf0acd43600a82d36504bddfd77d69c8e84418e07ea575026a4e598bcbff"
+    },
+    {
+      "removedFilename": "0024_arbok_shadow_2.png",
+      "oldFilename": "24_f701.png",
+      "keptFilename": "0024_arbok_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "bb85ed3a0f3ddb487e7489bea0a35d90db8479462fde2d54fc39141256e13cb8",
+      "keptSha256": "a6b429b45700756d2534c22d30e714c258a9bb4d91278af82089d5e681dfac98"
+    },
+    {
+      "removedFilename": "0024_arbok_purified_2.png",
+      "oldFilename": "24_f702.png",
+      "keptFilename": "0024_arbok_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "b8658669ef1440ff469e63f6346f9528a2e637200a70284481ae570701cc0756",
+      "keptSha256": "1eedf424af1b5ed22cc67130b994a367689643eacbf7a38acef9cbf6fa3c0f5a"
+    },
+    {
+      "removedFilename": "0025_pikachu_event_halloween_2017_2.png",
+      "oldFilename": "25_f598_c4.png",
+      "keptFilename": "0025_pikachu_event_halloween_2017.png",
+      "identicalBytes": true,
+      "removedSha256": "945467ffe02221be10befb9d324e19c89ce38519a474b54f8bef3a87395a0a59",
+      "keptSha256": "945467ffe02221be10befb9d324e19c89ce38519a474b54f8bef3a87395a0a59"
+    },
+    {
+      "removedFilename": "0025_pikachu_event_costume_1_2.png",
+      "oldFilename": "25_f598_c27.png",
+      "keptFilename": "0025_pikachu_event_costume_1.png",
+      "identicalBytes": true,
+      "removedSha256": "b8261abfff8304e8e05a5307d9b96ee73aa7b85fb378aed98c8f4195e928d288",
+      "keptSha256": "b8261abfff8304e8e05a5307d9b96ee73aa7b85fb378aed98c8f4195e928d288"
+    },
+    {
+      "removedFilename": "0025_pikachu_event_costume_2_2.png",
+      "oldFilename": "25_f598_c28.png",
+      "keptFilename": "0025_pikachu_event_costume_2.png",
+      "identicalBytes": true,
+      "removedSha256": "fa03aad05300d4b95ec62ed70bae4b0594be97a9cfa9dc1e744fd369596fe3e6",
+      "keptSha256": "fa03aad05300d4b95ec62ed70bae4b0594be97a9cfa9dc1e744fd369596fe3e6"
+    },
+    {
+      "removedFilename": "0026_raichu_event_halloween_2017_2.png",
+      "oldFilename": "26_f49_c4.png",
+      "keptFilename": "0026_raichu_event_halloween_2017.png",
+      "identicalBytes": true,
+      "removedSha256": "fe314c6e7c4ce5bc00848e7c918d52abfc29bd9cdc27d318da54f68702a40cf3",
+      "keptSha256": "fe314c6e7c4ce5bc00848e7c918d52abfc29bd9cdc27d318da54f68702a40cf3"
+    },
+    {
+      "removedFilename": "0026_raichu_event_costume_1_2.png",
+      "oldFilename": "26_f49_c27.png",
+      "keptFilename": "0026_raichu_event_costume_1.png",
+      "identicalBytes": true,
+      "removedSha256": "babe96058568feedd9c7d8cc0e840c3b2d968abc97faccad433b67d680638459",
+      "keptSha256": "babe96058568feedd9c7d8cc0e840c3b2d968abc97faccad433b67d680638459"
+    },
+    {
+      "removedFilename": "0026_raichu_event_costume_2_2.png",
+      "oldFilename": "26_f49_c28.png",
+      "keptFilename": "0026_raichu_event_costume_2.png",
+      "identicalBytes": true,
+      "removedSha256": "6ab8e7eea39392004921bb27bc9980e981493ec5bc67aa49a498c43737b05fed",
+      "keptSha256": "6ab8e7eea39392004921bb27bc9980e981493ec5bc67aa49a498c43737b05fed"
+    },
+    {
+      "removedFilename": "0027_sandshrew_shadow_2.png",
+      "oldFilename": "27_f673.png",
+      "keptFilename": "0027_sandshrew_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "6009d33871b54194f2dca89530fca74952040a403cd8be7e9d4a874c11183635",
+      "keptSha256": "0aff1e1d7e516a0da4263e8def0bf65498f5833d4fdca1dd06bc2a8f7269a350"
+    },
+    {
+      "removedFilename": "0027_sandshrew_purified_2.png",
+      "oldFilename": "27_f674.png",
+      "keptFilename": "0027_sandshrew_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "17d30caaccdcb0a3a91caea9fca3382f6130863bf98c8ed676ba15dda65a5025",
+      "keptSha256": "1c25b8417a0b0203a410732ceae950fbac5e5c806905cfe649af90b7e2e1ccff"
+    },
+    {
+      "removedFilename": "0028_sandslash_shadow_2.png",
+      "oldFilename": "28_f675.png",
+      "keptFilename": "0028_sandslash_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "cedd4c2b8be0a055244c9a796af45d6fe22d1bb106fe91bba1fd87b079a1a957",
+      "keptSha256": "b9bf5851ce7f0c6eb7dc1a955f89d869e26fe0943fd7a2ecaddf18b0d0b09175"
+    },
+    {
+      "removedFilename": "0028_sandslash_purified_2.png",
+      "oldFilename": "28_f676.png",
+      "keptFilename": "0028_sandslash_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "70785baa78758d96e51927c3046fb9355e6f46061b6b182b533740d92c82259f",
+      "keptSha256": "148b295b37eb7200f42213950931b599eafc15a96c6bd10f30a6d2dbf7cd5966"
+    },
+    {
+      "removedFilename": "0030_nidorina_shadow_2.png",
+      "oldFilename": "30_f780.png",
+      "keptFilename": "0030_nidorina_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "f0ed142086451e245ef6a63e8966d62f5d6a2e3b419fceb84972407f54d06aa2",
+      "keptSha256": "cd854d671e0d9943162545406f55cd19092a2f6035d861775da4ac570bb0be96"
+    },
+    {
+      "removedFilename": "0030_nidorina_purified_2.png",
+      "oldFilename": "30_f781.png",
+      "keptFilename": "0030_nidorina_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "4a7c335b6ba83aa498f4d5772e0d72185b7506a0fcee9c0b426754deed675553",
+      "keptSha256": "cb0c93e78c07bb9a9b76697bf892306d0f6ee3d9ba4494c2592fb4a1a487620e"
+    },
+    {
+      "removedFilename": "0031_nidoqueen_shadow_2.png",
+      "oldFilename": "31_f783.png",
+      "keptFilename": "0031_nidoqueen_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "4b367cd14d8cba452150f2424484bbdb11c5930fb04a7c2f5c076a6a37a5d0a9",
+      "keptSha256": "de7fd10bab1c8819ec34785fbcfaefbe171d1a6d855d0de6c1ff4b1f96ec1741"
+    },
+    {
+      "removedFilename": "0031_nidoqueen_purified_2.png",
+      "oldFilename": "31_f784.png",
+      "keptFilename": "0031_nidoqueen_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "99c8038a143e75bdd1f036926787ee85e0c7124b5516b90331734030cb0274df",
+      "keptSha256": "c958d0cb493326d443a42112384f801f67c5c235f5a26b91623da1a4f0d632fb"
+    },
+    {
+      "removedFilename": "0033_nidorino_shadow_2.png",
+      "oldFilename": "33_f786.png",
+      "keptFilename": "0033_nidorino_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "19cf519161cdfbc257429926364e2d6412e8167f1767a9c597b50ace7dac8b20",
+      "keptSha256": "c7b48167dd7252a558b3031617450a50e11a3ac9a1992dc6625dc3c2b23c70e8"
+    },
+    {
+      "removedFilename": "0033_nidorino_purified_2.png",
+      "oldFilename": "33_f787.png",
+      "keptFilename": "0033_nidorino_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "cbc3ddfd9e383a61bd7993460f04ed86a1230114d5e2c84f9a729505029f561a",
+      "keptSha256": "8b9963cf19bc88ca5172e9b31f1f132fd2774392d473457979c5457fa77c00b8"
+    },
+    {
+      "removedFilename": "0034_nidoking_shadow_2.png",
+      "oldFilename": "34_f789.png",
+      "keptFilename": "0034_nidoking_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "8adb9921bf633093f80acee82e211a6d685a7ff79f96a375dc0ca4a88d904fab",
+      "keptSha256": "eb030bcd6a1399549ffe7a0d3229c600a8508349acdbe229a0d2a7ab3bdb591d"
+    },
+    {
+      "removedFilename": "0034_nidoking_purified_2.png",
+      "oldFilename": "34_f790.png",
+      "keptFilename": "0034_nidoking_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "231680d74432f47ef0771d2ba3d30c6873a5dcce3afd91819c12694496c5c049",
+      "keptSha256": "a945c056fee04e41d4e444b7eaaee7071112b5c3243ade814cd58a1cb2ab59be"
+    },
+    {
+      "removedFilename": "0037_vulpix_shadow_2.png",
+      "oldFilename": "37_f725.png",
+      "keptFilename": "0037_vulpix_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "42e4691637c31a8d9fd52d8302e76b117515d1e77476b88ed7d9c268bb659cf6",
+      "keptSha256": "3a3350c1b343de6815057babf0086177843edec716d85b65b5b6b5fd7021e93d"
+    },
+    {
+      "removedFilename": "0037_vulpix_purified_2.png",
+      "oldFilename": "37_f726.png",
+      "keptFilename": "0037_vulpix_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "b65de4f95f1ab3498682da4ac010a8e1bbb50ab70764d4713558bc0a43f1c3cf",
+      "keptSha256": "491c497d2c0e893a7296f1f936524b4aa0f836d97b924e6a3a7db63f9da4ab2b"
+    },
+    {
+      "removedFilename": "0038_ninetales_shadow_2.png",
+      "oldFilename": "38_f727.png",
+      "keptFilename": "0038_ninetales_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "ba259cd84a63189b1e91b3ef6bf356ad424d1fda4861856731e22addeee3603f",
+      "keptSha256": "3f884c911fe3d00c7287251055dc8185c66982d29f4f83c65c80be95dd4eddf8"
+    },
+    {
+      "removedFilename": "0038_ninetales_purified_2.png",
+      "oldFilename": "38_f728.png",
+      "keptFilename": "0038_ninetales_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ea271c1a20f0a24c1d9ab5e491ca662fb0d207a9c6e2292b9b9e2d0839016b01",
+      "keptSha256": "c44a59de01a29d4152d406cbe0c2271fa5da9c1967b2b3f905e83a18f858d3f2"
+    },
+    {
+      "removedFilename": "0041_zubat_shadow_2.png",
+      "oldFilename": "41_f158.png",
+      "keptFilename": "0041_zubat_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "43a2d24b0308f893da94e9aba3b4d3dd22db5ce40f6bdf965684f1e49d78844a",
+      "keptSha256": "eca74b862521054a03322a333f50dbf1653dd2fc9beead81f2d235fa4ba7fcc9"
+    },
+    {
+      "removedFilename": "0041_zubat_purified_2.png",
+      "oldFilename": "41_f159.png",
+      "keptFilename": "0041_zubat_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "8870b1d1c0c1d211736a285e5f3c99b127226806a516acda8ef812df84061ea7",
+      "keptSha256": "13d7a33607f18f980962f748b717e3c652067c90e1d7ab1ae997d9d7bde8787c"
+    },
+    {
+      "removedFilename": "0042_golbat_shadow_2.png",
+      "oldFilename": "42_f161.png",
+      "keptFilename": "0042_golbat_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "1e3645b15255daf06daaa455a34ed509f79876e3b4ee55b1896536c6f73bb3ba",
+      "keptSha256": "a7314dc22a980e583fd0a644b8aa22a1a81caa2d104efef484548afa78a5d5fd"
+    },
+    {
+      "removedFilename": "0042_golbat_purified_2.png",
+      "oldFilename": "42_f162.png",
+      "keptFilename": "0042_golbat_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "62a9d62394059b04a939b0fd387d0c49ff1643887ad2069ebe022e02c1a8edf3",
+      "keptSha256": "19108e50cbe22431b8248d5b2edd3b4e24f7c48bf4c9d4fd32a6b861fa697d64"
+    },
+    {
+      "removedFilename": "0043_oddish_shadow_2.png",
+      "oldFilename": "43_f266.png",
+      "keptFilename": "0043_oddish_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "ae37b7b2139b6fa96529f5a3c04c251370eb6a430b4890c7182d27db5deda68b",
+      "keptSha256": "275965a85b670c89d54b39af08063866e8bf8345f3b16b213327ad9787ed67de"
+    },
+    {
+      "removedFilename": "0043_oddish_purified_2.png",
+      "oldFilename": "43_f267.png",
+      "keptFilename": "0043_oddish_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "36fae6207cf3049427e53ad75ed977e69d79561a594218c73b5e5e6084316720",
+      "keptSha256": "01ba90f99aa6e36a750f9b4bc6e86846f736f87ea70d606ebbc8a95f0981a56a"
+    },
+    {
+      "removedFilename": "0044_gloom_shadow_2.png",
+      "oldFilename": "44_f269.png",
+      "keptFilename": "0044_gloom_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "593c216406d3c57027c41ede751fb78b4cc101c21c3a87522b1d5d1413bdedca",
+      "keptSha256": "5d2dff2a506017b1456529c46805362b18ac27f112b311f1aaa27342ae2742ce"
+    },
+    {
+      "removedFilename": "0044_gloom_purified_2.png",
+      "oldFilename": "44_f270.png",
+      "keptFilename": "0044_gloom_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "3efe097d9819e0d1ba36d3790efc8f4a18a604f040ac42da8c5ee27bc8ee147b",
+      "keptSha256": "55686f94c2d6eb39f13fc3cdd6d7ffd4f02514dc4f93b48f7a782343dc12daaf"
+    },
+    {
+      "removedFilename": "0045_vileplume_shadow_2.png",
+      "oldFilename": "45_f272.png",
+      "keptFilename": "0045_vileplume_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "05a731cc07acef8c427a213e9545077887f6102f38aa90813b3427c48f9a537e",
+      "keptSha256": "099a27ede6faed347e390536082ab71c92c3226183a2c5fb2e14516d6faf4004"
+    },
+    {
+      "removedFilename": "0045_vileplume_purified_2.png",
+      "oldFilename": "45_f273.png",
+      "keptFilename": "0045_vileplume_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "55ed5ee24e5b2f38ddb0272e254ac98c6bf7d52652504be9b5f90354a57bce60",
+      "keptSha256": "33060bee5a0866538739182aa32f4094f241bc7bfa03f76d6a5b663f54f115cf"
+    },
+    {
+      "removedFilename": "0048_venonat_shadow_2.png",
+      "oldFilename": "48_f260.png",
+      "keptFilename": "0048_venonat_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "fee2f8c8c285556f7764d683ec26af731c4e60919e864c5ac2267cfedcec1010",
+      "keptSha256": "e39398e4b36f1f3eefb5c60b052583b2c8319be25000bab8522c6617d2a3fdde"
+    },
+    {
+      "removedFilename": "0048_venonat_purified_2.png",
+      "oldFilename": "48_f261.png",
+      "keptFilename": "0048_venonat_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "197a226f3552d88a06c7aca3cc51a96d06cc1003faec21804bd0c44317061518",
+      "keptSha256": "f6e9e9de1c243f2388fbeaac14134ac1a4feada050f4a2f43abdc626a2925a16"
+    },
+    {
+      "removedFilename": "0049_venomoth_shadow_2.png",
+      "oldFilename": "49_f263.png",
+      "keptFilename": "0049_venomoth_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "33078bac9da5fcca042b85c85484a44036d512426e515f1cefed97ea0f8c84ed",
+      "keptSha256": "556128776a63ab2645c1b3065220625da0e43a5781e27cd896a03988fa72dce8"
+    },
+    {
+      "removedFilename": "0049_venomoth_purified_2.png",
+      "oldFilename": "49_f264.png",
+      "keptFilename": "0049_venomoth_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "65084269ce055f24decff6ccfb252e774c93b026e252c784ce29f343e33420aa",
+      "keptSha256": "11cdf3a1edf4590141fab282f047f98cd70b796e9f1f85da11a12f5404dae6a8"
+    },
+    {
+      "removedFilename": "0050_diglett_shadow_2.png",
+      "oldFilename": "50_f842.png",
+      "keptFilename": "0050_diglett_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "54cd1c583b189750fcae9b3533d5aef8d977bfde13bc27a6ef466600a36ea6e3",
+      "keptSha256": "d2af891528cdbf2b1c1d791b10b296043f1b05f7d5c8ae08f1dfa7efd126eb8c"
+    },
+    {
+      "removedFilename": "0050_diglett_purified_2.png",
+      "oldFilename": "50_f843.png",
+      "keptFilename": "0050_diglett_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "503ebf4e05ee1cbc0980400758668f5141d2f41406a77fb63f67a5609653e614",
+      "keptSha256": "971417a0620ce0c31a8e653a5cc854230ed4053668a011188666f9e04f8d6182"
+    },
+    {
+      "removedFilename": "0051_dugtrio_shadow_2.png",
+      "oldFilename": "51_f844.png",
+      "keptFilename": "0051_dugtrio_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "8b093b37fb9977d8d2ed35987a67fa54e1a1f1172515b33c5a419780537bb3c4",
+      "keptSha256": "320f369aaa4f0db8796d6e0396f86c91adc76898788c7116e3ae98a9ca577c91"
+    },
+    {
+      "removedFilename": "0051_dugtrio_purified_2.png",
+      "oldFilename": "51_f845.png",
+      "keptFilename": "0051_dugtrio_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "d2c9c8ca84f92dc6c97c0237d0e44c973743090f04cf38371881247084c26967",
+      "keptSha256": "1325552dd939ce481708075910515296960731cc18ee4a66a4c4f9a97f1bd2de"
+    },
+    {
+      "removedFilename": "0052_meowth_shadow_2.png",
+      "oldFilename": "52_f709.png",
+      "keptFilename": "0052_meowth_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "0fb75d255c5dc91ee8bc286166d446a482368ee12e740cb2ce7ef427148b68f5",
+      "keptSha256": "b54c616e5524a8a2927db454697c8c676f5dee4cf839db775685258424f442f9"
+    },
+    {
+      "removedFilename": "0052_meowth_purified_2.png",
+      "oldFilename": "52_f710.png",
+      "keptFilename": "0052_meowth_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "5ddec2d166ada05a68182bf37cef34685e4bc5f11cc6afc682a26ff5680d607e",
+      "keptSha256": "b1ef3bbe378098bcf1580885cd472c53cbdfe4c406a1ea066175bdcb1ac94163"
+    },
+    {
+      "removedFilename": "0053_persian_shadow_2.png",
+      "oldFilename": "53_f711.png",
+      "keptFilename": "0053_persian_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "809f9963007e84d410faa6ccde0cd7584a02c1fa9c9b05e147df37ce72eb05bb",
+      "keptSha256": "fcb8178344d6fc1d24b704df27941c69f9c678533b4f38a8605968ff3ac89a04"
+    },
+    {
+      "removedFilename": "0053_persian_purified_2.png",
+      "oldFilename": "53_f712.png",
+      "keptFilename": "0053_persian_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "b7f6754601662b17d77d147aa56258293e8edef1018f1710d3b62e6217a33a32",
+      "keptSha256": "76bcfa3bbfa47a7f975d20e8330938e36b9e65e92e86b878004cf4bd063943ba"
+    },
+    {
+      "removedFilename": "0054_psyduck_shadow_2.png",
+      "oldFilename": "54_f287.png",
+      "keptFilename": "0054_psyduck_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "b3ac0ad49d0a51f5f602a2e39226a7774412da5bec9488174be0ba4b02be69db",
+      "keptSha256": "676f225cb187fe86e4f7ab00781f1d0e07b7a7a4617d3a9f12e3cc9464bd0a1b"
+    },
+    {
+      "removedFilename": "0054_psyduck_purified_2.png",
+      "oldFilename": "54_f288.png",
+      "keptFilename": "0054_psyduck_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f498e25e2ee1f6eb9431ace1c2ee107622e978fff905d5647357f81574575551",
+      "keptSha256": "4297551d2b28e4db5d4232070aaf7777625e77120067e276a049adae26168a59"
+    },
+    {
+      "removedFilename": "0055_golduck_shadow_2.png",
+      "oldFilename": "55_f290.png",
+      "keptFilename": "0055_golduck_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "eadd0632a182784f879da94078e5c20efad373e2dfd396b5f1e53d432420909e",
+      "keptSha256": "2ca17287c7fbcaf82598c7c5306c3327b17671be6125d20ce8fcf7d2d145438d"
+    },
+    {
+      "removedFilename": "0055_golduck_purified_2.png",
+      "oldFilename": "55_f291.png",
+      "keptFilename": "0055_golduck_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "3e5ad325188c73fb4b59d59cfcd8a7c187b7b8e1ce5e8867b53b5650904eeb6a",
+      "keptSha256": "cd9674d488c67524302e77fa66e8fce8816358c6b01e949997ef7d0e8c80bfc9"
+    },
+    {
+      "removedFilename": "0058_growlithe_shadow_2.png",
+      "oldFilename": "58_f281.png",
+      "keptFilename": "0058_growlithe_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "a5619f479a99264b902d498b55e28d585550711c6eb316f2ba42e94c83eaec1b",
+      "keptSha256": "8c927cc715c443c3e9776f9e055b8c40761ffea85777bc6f8864b75dbf33c348"
+    },
+    {
+      "removedFilename": "0058_growlithe_purified_2.png",
+      "oldFilename": "58_f282.png",
+      "keptFilename": "0058_growlithe_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f7367c36f0a31b6e8270129850a81e7c96d679fe428eeeaecfcd71047fff55cb",
+      "keptSha256": "5e271960d664b2aa7a33119a06cd2d9a47c245768d25652e5886714b93efbd65"
+    },
+    {
+      "removedFilename": "0059_arcanine_shadow_2.png",
+      "oldFilename": "59_f284.png",
+      "keptFilename": "0059_arcanine_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "35e423e259d5beb49f2e2adc2164206aee58cb8d771dacd2967575ea036c8c38",
+      "keptSha256": "b49d49b7032f12d5cd299045917093424277044a59f924649369c97efef07e71"
+    },
+    {
+      "removedFilename": "0059_arcanine_purified_2.png",
+      "oldFilename": "59_f285.png",
+      "keptFilename": "0059_arcanine_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "1cb40919ac5d652ccfd0fb23a88ba1949858f81c19ed76fdb6be8c363619c2d5",
+      "keptSha256": "48ab657260c9ee10f2953702d1717d2a60ab560d6167bfe73fd1c628a448239c"
+    },
+    {
+      "removedFilename": "0060_poliwag_shadow_2.png",
+      "oldFilename": "60_f236.png",
+      "keptFilename": "0060_poliwag_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "abc6e30b016270b6e9c81c388107daa4f9c01ba5b3906cc7c91881fe3af5854b",
+      "keptSha256": "938c2db8e92063ed597e3fc081d051f546c762633080e634ae95cfe7b5433645"
+    },
+    {
+      "removedFilename": "0060_poliwag_purified_2.png",
+      "oldFilename": "60_f237.png",
+      "keptFilename": "0060_poliwag_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "fb2cb551b6b14e9bec0d81dc18e878172cccfe4c016fc1d187a32e47b4a29e6d",
+      "keptSha256": "91f39f3abc797a85da60cb3be30ccfe6412d3af1e5951c38d0b4812c46f88f48"
+    },
+    {
+      "removedFilename": "0061_poliwhirl_shadow_2.png",
+      "oldFilename": "61_f239.png",
+      "keptFilename": "0061_poliwhirl_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "9b3db78642b126a1a292f9d1ca8414995df0b65701a5c652c55fe47b8c91a1af",
+      "keptSha256": "65cc79a52a1996f007201b1a32afa53e2fab758b4fc788b7ac77487970759761"
+    },
+    {
+      "removedFilename": "0061_poliwhirl_purified_2.png",
+      "oldFilename": "61_f240.png",
+      "keptFilename": "0061_poliwhirl_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f44b588c8b1b816f03f6914e63a0e206cbdb3f350ff3d0c654fd821e01af6cdc",
+      "keptSha256": "d4b40f8b63a7467f22d94b53492cd919f6ea67921e18ec9459e06231b9d4b271"
+    },
+    {
+      "removedFilename": "0062_poliwrath_shadow_2.png",
+      "oldFilename": "62_f242.png",
+      "keptFilename": "0062_poliwrath_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "2bba1753b4a92df2fc33c85f1821b2ec4e77e5dda51f8baae1abd6f3d2e7104a",
+      "keptSha256": "317c0920a62c7f2a12edc93c5a3316cedbc44ec33d6408412503bbc24e3c5084"
+    },
+    {
+      "removedFilename": "0062_poliwrath_purified_2.png",
+      "oldFilename": "62_f243.png",
+      "keptFilename": "0062_poliwrath_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "378f4c555b96b4707f37e6727b58035909f85ecc7e93f34e8f7b0767090df559",
+      "keptSha256": "4a8e84f9ffda339baf11111ab0af76b8a3ea9ca505c1a22fca600349cd1f1ce8"
+    },
+    {
+      "removedFilename": "0063_abra_shadow_2.png",
+      "oldFilename": "63_f305.png",
+      "keptFilename": "0063_abra_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "f52c1b6356fd2c3094ca04e8736f3db5812b5888b836a7c2338397c8f7f11f0f",
+      "keptSha256": "137d7c0ceafe46243a70cd18b27e1593f79222814c19e765ef4c27a6bd597c11"
+    },
+    {
+      "removedFilename": "0063_abra_purified_2.png",
+      "oldFilename": "63_f306.png",
+      "keptFilename": "0063_abra_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "855866bdfe1ffedfab6abc8118f16e3118a8afb572abdd00d0e73579cedab08c",
+      "keptSha256": "b75aa326ce95bb944cb758554bebe3c0bae831aea2b5a60b0dfb6e0de19c3b80"
+    },
+    {
+      "removedFilename": "0064_kadabra_shadow_2.png",
+      "oldFilename": "64_f308.png",
+      "keptFilename": "0064_kadabra_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "960223a6b5abe073c770ce4c851c5c17b51123fdced67e44199dc3c20288a488",
+      "keptSha256": "9e582f448d600d000ff5b0fe1c97d14c0858fc94cff500073c449b7d2ce6552f"
+    },
+    {
+      "removedFilename": "0064_kadabra_purified_2.png",
+      "oldFilename": "64_f309.png",
+      "keptFilename": "0064_kadabra_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "d0b3a82bed7d3a0fd0354ec1fa7dd62eb66f873707f258e38992903688beddef",
+      "keptSha256": "499608553465ab0a81262f371d16f96edae9037153abe56c7317f1884a007da9"
+    },
+    {
+      "removedFilename": "0065_alakazam_shadow_2.png",
+      "oldFilename": "65_f311.png",
+      "keptFilename": "0065_alakazam_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "997a4e2e29cbb763beb815a82f0ea06561ffd64e73327eab2a0e4c036cc8a0b3",
+      "keptSha256": "5e6102e9765203e9393beb50c064f04aa2567ed565cba0b043f4ca6e1043cc29"
+    },
+    {
+      "removedFilename": "0065_alakazam_purified_2.png",
+      "oldFilename": "65_f312.png",
+      "keptFilename": "0065_alakazam_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "7772899daff0531761afa0d290a2dad36770b76d146123d73ec5aa8bc9bcbcaf",
+      "keptSha256": "be321ef1b053b2509ed6fc041f676364fe0ff30fb61420709429150d53ef3e8c"
+    },
+    {
+      "removedFilename": "0066_machop_shadow_2.png",
+      "oldFilename": "66_f810.png",
+      "keptFilename": "0066_machop_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "a19ad0e1dbc619b78935a53db3d4e9845ca9fa5a6e71b3f94c595e782c1620ff",
+      "keptSha256": "66bd1f721bab432e1e6d79f127d777b8fe2869a6ab2668236e7af38e1a5b392e"
+    },
+    {
+      "removedFilename": "0066_machop_purified_2.png",
+      "oldFilename": "66_f811.png",
+      "keptFilename": "0066_machop_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "a349e5a295654f595920ba27d74aad3e06d560dd90f5e0d95a05748c44520aea",
+      "keptSha256": "82ec68fd257d27ae2f11a9eadfe6c8ad181b901bcc3c600dec523dedb938ff1c"
+    },
+    {
+      "removedFilename": "0067_machoke_shadow_2.png",
+      "oldFilename": "67_f813.png",
+      "keptFilename": "0067_machoke_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "1c16ef9541d9fdfa632355682197cdd8b27cece9a7a57a1f59707c799b560e90",
+      "keptSha256": "508be3eed5e69fad7099d139bad4c50ac8a0d960b63c69ec06d8cd25b1baf667"
+    },
+    {
+      "removedFilename": "0067_machoke_purified_2.png",
+      "oldFilename": "67_f814.png",
+      "keptFilename": "0067_machoke_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "71bb5c54fc20cf8b5995c197c9cfb775e027cb235cf30186d0f3f88933f9959e",
+      "keptSha256": "277c0dd15e69122767b8e938506b1ce756c7029133e7d5a7b1ae90f2be3dcf93"
+    },
+    {
+      "removedFilename": "0068_machamp_shadow_2.png",
+      "oldFilename": "68_f816.png",
+      "keptFilename": "0068_machamp_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "d378cd47dc204203c70a123fa169260e11e0c790b573736d258fc8a7b8bdf94b",
+      "keptSha256": "2f39e963753eee11d77e6c14ebe6fbb0139de9d3f4dd984a4c845297b9503887"
+    },
+    {
+      "removedFilename": "0068_machamp_purified_2.png",
+      "oldFilename": "68_f817.png",
+      "keptFilename": "0068_machamp_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "74eb7216e89fe12049e8a003c5ef4b24929bbdd88a4985f1f16ead40646fd8a5",
+      "keptSha256": "77f1565bfe38e46c0e7330ba19f9cab913dd21c865e9b516ae59b03881d521eb"
+    },
+    {
+      "removedFilename": "0069_bellsprout_shadow_2.png",
+      "oldFilename": "69_f665.png",
+      "keptFilename": "0069_bellsprout_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "e36b2352368df045b08c5159faef6c3bf2baea03de24749db005c3e9f2b96b37",
+      "keptSha256": "ad7e70f7e6e0002273c52c39530493c0c1249e2eee02479b5192c59caf1ad4c0"
+    },
+    {
+      "removedFilename": "0069_bellsprout_purified_2.png",
+      "oldFilename": "69_f666.png",
+      "keptFilename": "0069_bellsprout_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "718edb75290896dc16dcfdb2dcc37b91c7a75f4fc13cb6eacd4335a0002253e5",
+      "keptSha256": "c5ac69c2be0c91d5a1c38812e44734ae817f983dac82c192de9d8ea70b331f26"
+    },
+    {
+      "removedFilename": "0070_weepinbell_shadow_2.png",
+      "oldFilename": "70_f668.png",
+      "keptFilename": "0070_weepinbell_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5fa13639813d8bd3e70f897bcff884749530bd07fc24b27524dfea834bc595a9",
+      "keptSha256": "7c50ee373b97921c1998968fe6884f261245b429ccd49c46a0b0ea45f60d845b"
+    },
+    {
+      "removedFilename": "0070_weepinbell_purified_2.png",
+      "oldFilename": "70_f669.png",
+      "keptFilename": "0070_weepinbell_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "7e77910b73ce4f0d22a62d3880e78a7ec52764d260c739be180aad0bfac6f7d6",
+      "keptSha256": "163a2a0d96cc8ab2db8151869d50eb56d86692518de52818132fbb5e20af1a39"
+    },
+    {
+      "removedFilename": "0071_victreebel_shadow_2.png",
+      "oldFilename": "71_f671.png",
+      "keptFilename": "0071_victreebel_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "fa615b4c71d6c26b561491b1141c1e6cca8915a608b5d50d57857bc6f2458b56",
+      "keptSha256": "61c6c685bfdf49b613e17c92626d6a0d4743782b922ffbfd95083cdc92f56582"
+    },
+    {
+      "removedFilename": "0071_victreebel_purified_2.png",
+      "oldFilename": "71_f672.png",
+      "keptFilename": "0071_victreebel_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "8f2138551d8bdf440d91677a8e7bc5a5b4c4484fd1039adb50a1132411c41b3d",
+      "keptSha256": "ca90c97e58390b0129f851ed47373d98269624c2143336f50d00deaf8c7fbb5c"
+    },
+    {
+      "removedFilename": "0074_geodude_shadow_2.png",
+      "oldFilename": "74_f882.png",
+      "keptFilename": "0074_geodude_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "acbdb91cbc90bd7e7efc32a61f3ddce0fc889f9e3715511b6219a48fc7e6d7be",
+      "keptSha256": "5e8eef29573455dada26775672e81f6a29b3746896148c9350708efe6003cb04"
+    },
+    {
+      "removedFilename": "0074_geodude_purified_2.png",
+      "oldFilename": "74_f883.png",
+      "keptFilename": "0074_geodude_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f93f899ff8b6392d17548cad9bb3b45e0c1d4ed77b60d7a5afd608d695319641",
+      "keptSha256": "8f3fc27b7b72ae2b17893788f63094122bb2d0bf9fc42d340f6b7eece13b5c83"
+    },
+    {
+      "removedFilename": "0075_graveler_shadow_2.png",
+      "oldFilename": "75_f884.png",
+      "keptFilename": "0075_graveler_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "2d199a9a2231c95e2efbc357e236a22719f57661da4322997b4cf9c432d75eb9",
+      "keptSha256": "825f9b0feb7d30093c2d37b6931af42c0ddbb811acdc1dd4b5c2ac9c4360e3d8"
+    },
+    {
+      "removedFilename": "0075_graveler_purified_2.png",
+      "oldFilename": "75_f885.png",
+      "keptFilename": "0075_graveler_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ff2b2f28c4ebcfa722caa7df919f2f48199a40aeb0cbf918e214b5c7ef1b0a1d",
+      "keptSha256": "2c6e157a4a19e4a349c1022c8e554889cabd10507342922d595a51a2f575b8bd"
+    },
+    {
+      "removedFilename": "0076_golem_shadow_2.png",
+      "oldFilename": "76_f886.png",
+      "keptFilename": "0076_golem_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "479ffd493def268c1e76c269f0b3680945f669b1e930c52c270689c44f886e12",
+      "keptSha256": "345dddba5641652dd58271f2ffd401658b66896fa3dfe048deed1720e646de48"
+    },
+    {
+      "removedFilename": "0076_golem_purified_2.png",
+      "oldFilename": "76_f887.png",
+      "keptFilename": "0076_golem_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f70b75b458bbd168eacc6afb2a5edc3d849da47aad7ace394fa24ed5cd59aabe",
+      "keptSha256": "2a27d8a7e8866da3825a6eff1fb56c433b128974732cbf9e63c04deb8a2bbbf3"
+    },
+    {
+      "removedFilename": "0079_slowpoke_shadow_2.png",
+      "oldFilename": "79_f1018.png",
+      "keptFilename": "0079_slowpoke_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "22196acda9bbb5c3c28944600c74f404ade242d8b43f3700211b87e5e0057b68",
+      "keptSha256": "8edfe0bea02e9b3a338eb4693a3c169769f2159842655729cfd63c9021ae7885"
+    },
+    {
+      "removedFilename": "0081_magnemite_shadow_2.png",
+      "oldFilename": "81_f656.png",
+      "keptFilename": "0081_magnemite_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "6e995cb823584331593c071bdc29c7205d0d042d8c1d51a7bbd32ae4821986ce",
+      "keptSha256": "fc6733309455541e6530c7703efececb704cd731e2915e7ae9febbb644fb7e47"
+    },
+    {
+      "removedFilename": "0081_magnemite_purified_2.png",
+      "oldFilename": "81_f657.png",
+      "keptFilename": "0081_magnemite_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "d0bfbdc87e2ab8fa49944c88d7fd0081e09a3a31b1843374037ee0211a5a94e1",
+      "keptSha256": "4d4e55bb85401874d47ebc0623faaa68b50c316f8ec69eb207fe52df87153bf1"
+    },
+    {
+      "removedFilename": "0082_magneton_shadow_2.png",
+      "oldFilename": "82_f659.png",
+      "keptFilename": "0082_magneton_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "ede3dcabbc167d368c40302e79c5f42999595e60f2eb0dfad3b3e8a2df0d8aa6",
+      "keptSha256": "ec454f0ff7c604b17a7cd58750da65928eef507a27c8551a11bc2a206828a1c6"
+    },
+    {
+      "removedFilename": "0082_magneton_purified_2.png",
+      "oldFilename": "82_f660.png",
+      "keptFilename": "0082_magneton_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "77079d805c277d23589374b266de083f516ef479678afaacccb90329d1e2ffda",
+      "keptSha256": "e933b8d0f8fbb001fc190c7b710552ac23c02838a2d8a744401c1050045a8e00"
+    },
+    {
+      "removedFilename": "0088_grimer_shadow_2.png",
+      "oldFilename": "88_f220.png",
+      "keptFilename": "0088_grimer_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "f956e61f0375dc9bff11a9a7f825b77cdde324afb499b26484f1e6d65c0fab97",
+      "keptSha256": "b7dcc981fb4946adbee883ec3c05f2bbca89d6005b61a2959fff7e0a3a2073d6"
+    },
+    {
+      "removedFilename": "0088_grimer_purified_2.png",
+      "oldFilename": "88_f221.png",
+      "keptFilename": "0088_grimer_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "36b22b3f451b2cbdb7f634d3784c10ccd4b6812b57158ee0ea7b576c93a190f0",
+      "keptSha256": "fd8cde167aee6158511839dac8e28695937903e0d90205b2ae075b2c3557e5d6"
+    },
+    {
+      "removedFilename": "0089_muk_shadow_2.png",
+      "oldFilename": "89_f222.png",
+      "keptFilename": "0089_muk_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "7608a38ebf00dcf0d74ca8725f551632952dce229fc16939565b6b23f0b0500b",
+      "keptSha256": "f3d3c19cb3e7fa7c7e7d88dccdd1c873795a92adf00e8d52fd9da5f9a93134ff"
+    },
+    {
+      "removedFilename": "0089_muk_purified_2.png",
+      "oldFilename": "89_f223.png",
+      "keptFilename": "0089_muk_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "c5a8bcef63a4f7b85561f1c5f5828547467533ade339775dd8257f246f7f819f",
+      "keptSha256": "d607a556f38b4fc5cbee83eb4c42e1ccca1c24dad35dced590b2352088f740f2"
+    },
+    {
+      "removedFilename": "0090_shellder_shadow_2.png",
+      "oldFilename": "90_f877.png",
+      "keptFilename": "0090_shellder_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "d6bf5f484ae55d1adb1fb197681babbfb31dabac493637bbb28ec69313e92586",
+      "keptSha256": "5a78a39eed84a95dbce8f39d52ad2b0a668b3a0d7e0993a4e02fea0473099b3d"
+    },
+    {
+      "removedFilename": "0090_shellder_purified_2.png",
+      "oldFilename": "90_f878.png",
+      "keptFilename": "0090_shellder_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "5325d58e744e2207835435d541b967adb41212712fabb148a5ba39134e705bf0",
+      "keptSha256": "d0b48be36cb31bca3cb9160c5c083c48c8d2aac8bd6ea45bcaed1dac3a5854f3"
+    },
+    {
+      "removedFilename": "0091_cloyster_shadow_2.png",
+      "oldFilename": "91_f880.png",
+      "keptFilename": "0091_cloyster_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "1a2fe146587f7b019ec984a41a8778c3268952f7bc13bf50135459348763b2d8",
+      "keptSha256": "a5e015b70c6dbbbb9320d792e0a654afd513d33ea1d1b42d19d39238bc84083f"
+    },
+    {
+      "removedFilename": "0091_cloyster_purified_2.png",
+      "oldFilename": "91_f881.png",
+      "keptFilename": "0091_cloyster_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "a87ea25f0f0bed38dcdf7e4c632696b0597a629dad99d7983a00432afa609fdc",
+      "keptSha256": "e6677ff88394ebe74e9f8d4d5554f455179c11421e5dc5b615be907f53fa1c87"
+    },
+    {
+      "removedFilename": "0094_gengar_event_halloween_2020_noevolve_2.png",
+      "oldFilename": "94_f1044_c26.png",
+      "keptFilename": "0094_gengar_event_halloween_2020_noevolve.png",
+      "identicalBytes": true,
+      "removedSha256": "d0484002b2bb633e61ef76ce0c66c10db08e875ffc67db6374dd50d768c6accd",
+      "keptSha256": "d0484002b2bb633e61ef76ce0c66c10db08e875ffc67db6374dd50d768c6accd"
+    },
+    {
+      "removedFilename": "0095_onix_shadow_2.png",
+      "oldFilename": "95_f903.png",
+      "keptFilename": "0095_onix_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "accd412bac9254536c77acc1facb5627a9c4101b55661bd658cf75ed86244274",
+      "keptSha256": "7d480ccc515b7538b2db3b49769230f8cb11a5a41b5ad7b1c52aba44dbf286e6"
+    },
+    {
+      "removedFilename": "0095_onix_purified_2.png",
+      "oldFilename": "95_f904.png",
+      "keptFilename": "0095_onix_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "51c86fdcedca7e1fea63f31bee4a5e7b35fa493cb3f8c5df952a79d60cf10a45",
+      "keptSha256": "7d73cb9c21bb74d06c693f76fcb1c3344e1cde6e75a19dde5f0bada76db1b245"
+    },
+    {
+      "removedFilename": "0096_drowzee_shadow_2.png",
+      "oldFilename": "96_f215.png",
+      "keptFilename": "0096_drowzee_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "cf17e470623dbe1072dab942c156a4ce0443fb334f1d40d0fb77a4c8bb6d6bf6",
+      "keptSha256": "8b88547760852129d4f0bf21eb9382d8946c29bd1436f93d65fd6e3c8697da3a"
+    },
+    {
+      "removedFilename": "0096_drowzee_purified_2.png",
+      "oldFilename": "96_f216.png",
+      "keptFilename": "0096_drowzee_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "82938a8ddfe14be1209d4f836ccd35a7cad06116e7424f309c47fcd5aeb1bb07",
+      "keptSha256": "024d7b766c41952c9faf5a0f5ee28e6f5a74877bb6541585d928843bf9b24196"
+    },
+    {
+      "removedFilename": "0097_hypno_shadow_2.png",
+      "oldFilename": "97_f218.png",
+      "keptFilename": "0097_hypno_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "252ab8f368a6df3b18940d28e7f896230fd5a6822ef2aa10d3def4c4984414fd",
+      "keptSha256": "399f7abc84d7e2be9864190c801d5fd897cf26edadd5b766f101fb45499e5b29"
+    },
+    {
+      "removedFilename": "0097_hypno_purified_2.png",
+      "oldFilename": "97_f219.png",
+      "keptFilename": "0097_hypno_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "b3368b6316ba62491578d2e34331600b68a10524157e82b1e4c059a030fbf728",
+      "keptSha256": "0ec179b1a572b35b5a52c7f71ca442e8250bb2cd62fc07b12831b5c377dbc5f1"
+    },
+    {
+      "removedFilename": "0098_krabby_shadow_2.png",
+      "oldFilename": "98_f871.png",
+      "keptFilename": "0098_krabby_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "145dc18730dd8fbf2e11bf1d962f39a02dd5937e382470578db757a9aee26445",
+      "keptSha256": "a9661c43e85893caee7a930c5e0e2b947209ac7a842642c4c322c4997052aa1c"
+    },
+    {
+      "removedFilename": "0098_krabby_purified_2.png",
+      "oldFilename": "98_f872.png",
+      "keptFilename": "0098_krabby_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "1ad2f94f0c53f5ffd43d1837ced040e8692e921a7a74c060ad608093bd3423f5",
+      "keptSha256": "77a8fb498359253caade1f6f97124d4e159225cb4445d557fa5749c74506eefb"
+    },
+    {
+      "removedFilename": "0099_kingler_shadow_2.png",
+      "oldFilename": "99_f874.png",
+      "keptFilename": "0099_kingler_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "22eb468c40ea8732846730cc3dbe052abfb81d7fa257a4c5c9699b6e0e032d19",
+      "keptSha256": "5927f6d2426a7602b9387f65740f6e03bec35ee71bce7e1e29d4e5bc7d3157bc"
+    },
+    {
+      "removedFilename": "0099_kingler_purified_2.png",
+      "oldFilename": "99_f875.png",
+      "keptFilename": "0099_kingler_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "3db3f7077b1f368efa14eaf5788906024aaca6626ca0ef9c774f88b145c5858b",
+      "keptSha256": "8d12f302efd4d9f44421f568dbc52d71505d88781c63076b5c322c45a7d62220"
+    },
+    {
+      "removedFilename": "0102_exeggcute_shadow_2.png",
+      "oldFilename": "102_f730.png",
+      "keptFilename": "0102_exeggcute_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "8afd6ec80776c4d11566608890def5dbb677578c147e34150535c9fd9f127878",
+      "keptSha256": "86c98ef7a2c612c9ff3930375a73b124277705a545d5ecdc23cd75f8026a7fdf"
+    },
+    {
+      "removedFilename": "0102_exeggcute_purified_2.png",
+      "oldFilename": "102_f731.png",
+      "keptFilename": "0102_exeggcute_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "e72446df760b0e7e0bf30bc673b1c3ffb31096a32a97e1086769cb97bc1bf129",
+      "keptSha256": "9efa8d34f7406525206a8e366e76ad3e2d6abd0c47aa920ca85d28f1ef288423"
+    },
+    {
+      "removedFilename": "0103_exeggutor_shadow_2.png",
+      "oldFilename": "103_f732.png",
+      "keptFilename": "0103_exeggutor_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "1c08cd6fd1a774c7cabf1d2cdf56739467471c95745a37eda38971a505347cb5",
+      "keptSha256": "39ff47ba976e11c5b5b375bbb40ef0b262eefafb155c3e64d9fc89b53ef88cf2"
+    },
+    {
+      "removedFilename": "0103_exeggutor_purified_2.png",
+      "oldFilename": "103_f733.png",
+      "keptFilename": "0103_exeggutor_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "bb12d3a8baca4fa3e5a71ed81a333e960a132f71335ed9d8d6e65fbd5cee8121",
+      "keptSha256": "d1e3f58828395d176f1dce27c7cc5c0951b1a0959f2c2908622131203735bd1d"
+    },
+    {
+      "removedFilename": "0104_cubone_shadow_2.png",
+      "oldFilename": "104_f225.png",
+      "keptFilename": "0104_cubone_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "8739dc1365250bfe132155646f7b5e4cdd3df00707ee91b5434fdeb87a713f65",
+      "keptSha256": "05957caca88f87c9e2c0a3d1f6bc1ac608169a92fbdb80e7f41ca7ca2d1badc2"
+    },
+    {
+      "removedFilename": "0104_cubone_purified_2.png",
+      "oldFilename": "104_f226.png",
+      "keptFilename": "0104_cubone_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "e53fd67b690c53b36b6049cc2c37016e3481a4efa12c250c600782967fcd0ea1",
+      "keptSha256": "77e61f55578306790020a2818c76f52343f15b78d06d11023ca11e459c5b9acf"
+    },
+    {
+      "removedFilename": "0105_marowak_shadow_2.png",
+      "oldFilename": "105_f227.png",
+      "keptFilename": "0105_marowak_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "14b48f3932dc780be14cbf29afea567d1e281e53376bc953c8401533cbb78897",
+      "keptSha256": "88b09a56fb2a30fc3d487eb0e3d875eb097d790204c8d5a88dc4f605bcadb78f"
+    },
+    {
+      "removedFilename": "0105_marowak_purified_2.png",
+      "oldFilename": "105_f228.png",
+      "keptFilename": "0105_marowak_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "c6bd245536bd9b38e5e0fb4b3ee204fd929f24250ed438a2b5ee2b236c8c85d3",
+      "keptSha256": "c9c66d712a659dd5efe4d65cae592665b12b382bb081c57a681aca917eb2f36b"
+    },
+    {
+      "removedFilename": "0106_hitmonlee_shadow_2.png",
+      "oldFilename": "106_f714.png",
+      "keptFilename": "0106_hitmonlee_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "63c3b19606b47dd1fc09ece39d3046f27a47b2c48ecbc5fd7a70e8d7d29b5a9b",
+      "keptSha256": "b6d84b7a0b1f824f3c6b601cdda19706a7c9f1a563455f1516c7e5aed6c1fff9"
+    },
+    {
+      "removedFilename": "0106_hitmonlee_purified_2.png",
+      "oldFilename": "106_f715.png",
+      "keptFilename": "0106_hitmonlee_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "4d1bc3a573f94d43b397d7ec036060181cf53695bc55b890ca95b6b24bddc92a",
+      "keptSha256": "cd3481c9b083b2788acc7e46bd1a10f83e25fdb3e10dafc9b77bea810ef6f64e"
+    },
+    {
+      "removedFilename": "0107_hitmonchan_shadow_2.png",
+      "oldFilename": "107_f278.png",
+      "keptFilename": "0107_hitmonchan_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "52b944897466e2189fd4d97cae5d5c924ae16a87a53e907cf0c4d7368d74995a",
+      "keptSha256": "7d3291e15652276c03fb2645f459bdc51e55e7fe7fc44001b26f129d580b7207"
+    },
+    {
+      "removedFilename": "0107_hitmonchan_purified_2.png",
+      "oldFilename": "107_f279.png",
+      "keptFilename": "0107_hitmonchan_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "e8db7b1bf0d5b479e86eb9e0707b085f1d421358e89722dc9833ea633647b36d",
+      "keptSha256": "ce29954bb7ee837fb27891793d69c34a4f6011c3e1adb864a3bf496e5916df28"
+    },
+    {
+      "removedFilename": "0109_koffing_shadow_2.png",
+      "oldFilename": "109_f704.png",
+      "keptFilename": "0109_koffing_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "e4f917b3d89eca95179938a62aa2c5530083dafa60dc2a774ac9728fb79c8cdb",
+      "keptSha256": "5fbd22c5681c56c16ff49855ff83c4b2650ec0d842c9ec009bb38d51f55d677c"
+    },
+    {
+      "removedFilename": "0109_koffing_purified_2.png",
+      "oldFilename": "109_f705.png",
+      "keptFilename": "0109_koffing_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "6c1a941a20eb38321e48b830dfc5a31d3177152f53d57c75536ab58a3f109689",
+      "keptSha256": "39cfc116c2367e94ce67bdf282133b5bd896a9266dfe5fdc1e3d94317185044b"
+    },
+    {
+      "removedFilename": "0110_weezing_shadow_2.png",
+      "oldFilename": "110_f707.png",
+      "keptFilename": "0110_weezing_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "d95f0f6b7960d506436cde0f4f09a86d54862855e747926361cda604ad67f0c7",
+      "keptSha256": "a764d8adee22f7071e6bdc7ad5c74d05ff714eed34a5c4fba5ebb47911f2f0b9"
+    },
+    {
+      "removedFilename": "0110_weezing_purified_2.png",
+      "oldFilename": "110_f708.png",
+      "keptFilename": "0110_weezing_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "c48155be128d6aea410692ca9a41e42a69f65238d312adf4873e26ffed616fd1",
+      "keptSha256": "427ee0e5a6ed1b79f3f3a29ab62b9d1047c730b1fba77b38cf48898f3157c621"
+    },
+    {
+      "removedFilename": "0111_rhyhorn_shadow_2.png",
+      "oldFilename": "111_f847.png",
+      "keptFilename": "0111_rhyhorn_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "bab97033185a13fe16ce9f7b346fddf6d9a05cf94fc7c98584becab3119544c5",
+      "keptSha256": "f0a77d7da3e880520d20709b0e4427db7b58418c9c5ea2f99d13ffcf4edea1c9"
+    },
+    {
+      "removedFilename": "0111_rhyhorn_purified_2.png",
+      "oldFilename": "111_f848.png",
+      "keptFilename": "0111_rhyhorn_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "c0abd26e195a97e6b35239bdfcf3f4c1003689c405352abfba1e8b4c9e2f77c0",
+      "keptSha256": "13234dbc5e329a6de5732246413425ce49929311ae170b78828692ed5be09ce2"
+    },
+    {
+      "removedFilename": "0112_rhydon_shadow_2.png",
+      "oldFilename": "112_f850.png",
+      "keptFilename": "0112_rhydon_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "4330d2903429f50e880a86e87022555427916e3e6cfc5a0768d56acef499fa20",
+      "keptSha256": "a4334ab8c5705c4b150aca24553a67caedaa1b342e5d230c14469d9260eb573b"
+    },
+    {
+      "removedFilename": "0112_rhydon_purified_2.png",
+      "oldFilename": "112_f851.png",
+      "keptFilename": "0112_rhydon_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "e3f0bfc8e3add827a87cc22e141ac49ec347d957c728a2e32036c6ff559ad726",
+      "keptSha256": "86feaa99c95345a67245f451495b5d704dbc1f4657b90a7b9155aaf0ec888196"
+    },
+    {
+      "removedFilename": "0113_chansey_event_november_2018_2.png",
+      "oldFilename": "113_f1056_c7.png",
+      "keptFilename": "0113_chansey_event_november_2018.png",
+      "identicalBytes": true,
+      "removedSha256": "ce23fdee55cc787183e3453da832aaeb58317be0203810f5028de80148257b42",
+      "keptSha256": "ce23fdee55cc787183e3453da832aaeb58317be0203810f5028de80148257b42"
+    },
+    {
+      "removedFilename": "0114_tangela_shadow_2.png",
+      "oldFilename": "114_f1060.png",
+      "keptFilename": "0114_tangela_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "4d38b04df675985a7e913980c749629557700637ae237c08106f9319ad0e40a1",
+      "keptSha256": "d39cc79db1df36c04660b04737285cb2af3acdfbf402e6277a2426cccb16fb05"
+    },
+    {
+      "removedFilename": "0115_kangaskhan_shadow_2.png",
+      "oldFilename": "115_f840.png",
+      "keptFilename": "0115_kangaskhan_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "a120f4cd22140de3d6a4e7ea723bf076388656f14a7b334feff48cf5ba048e4c",
+      "keptSha256": "38713fc4f438d11fd91b81a5c923c3e716fde66d52176dd06ae806d25cc90d49"
+    },
+    {
+      "removedFilename": "0115_kangaskhan_purified_2.png",
+      "oldFilename": "115_f841.png",
+      "keptFilename": "0115_kangaskhan_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "6dfda4acc3dc5a06538b4c7d3e40d6a2b827c654906e95ddf593eac183bcf915",
+      "keptSha256": "d7114b357d16d9e862d8274f788d012befd0d45c1ef9e0c4c882d8d9d4897664"
+    },
+    {
+      "removedFilename": "0116_horsea_shadow_2.png",
+      "oldFilename": "116_f1063.png",
+      "keptFilename": "0116_horsea_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "7df83c60af5f7ff75e1c4b6be7bee5ef977e864957b0ab8725572c2b351ced6c",
+      "keptSha256": "2529d2708478917e8d605c0c457c3b26f5cc036471f49e597f28d725568cf840"
+    },
+    {
+      "removedFilename": "0123_scyther_shadow_2.png",
+      "oldFilename": "123_f248.png",
+      "keptFilename": "0123_scyther_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "9f4b059b82c9af5466d7ccc9d517e5a131d19edd6985ae4f902a015c2e202c5b",
+      "keptSha256": "c82218a29c6a78587fbcce5a3f02ded337dae456c01b35efca7dd1bd0158abbd"
+    },
+    {
+      "removedFilename": "0123_scyther_purified_2.png",
+      "oldFilename": "123_f249.png",
+      "keptFilename": "0123_scyther_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f44b57ed702c1fa8a530b0b179152a79eaced7f2675a416e805a249ae18b81bb",
+      "keptSha256": "8f08020055870ece64fc4eb0599ee5ac2280e45d94293731d5ce84de645e9021"
+    },
+    {
+      "removedFilename": "0125_electabuzz_shadow_2.png",
+      "oldFilename": "125_f641.png",
+      "keptFilename": "0125_electabuzz_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "39b15b53360f22b604c50169a1b1c4bb0ff45e2c27483b9c21da8a0e3452fcdc",
+      "keptSha256": "10c8667f49cca2abc150b038cca3336bdfee898e7b5d1e813ecb8b8381ea9e33"
+    },
+    {
+      "removedFilename": "0125_electabuzz_purified_2.png",
+      "oldFilename": "125_f642.png",
+      "keptFilename": "0125_electabuzz_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "6fc766ea2ab3660682d387bdce5e769cde049f4f04b679fc1fa5fb8630c8f78f",
+      "keptSha256": "eb4f80e8418212a72ed1f33cf1be123a71499b2ca926d45b6cb8a58e28abc3d9"
+    },
+    {
+      "removedFilename": "0126_magmar_shadow_2.png",
+      "oldFilename": "126_f635.png",
+      "keptFilename": "0126_magmar_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "0f1738ab3f78e43a87f6cb1adea1a20346a54545dc87bda7e5116678d59f5e24",
+      "keptSha256": "0576cbe1863bdc2701b0c22664650b50478a27c79c8157d1dc42d1ca70ee48db"
+    },
+    {
+      "removedFilename": "0126_magmar_purified_2.png",
+      "oldFilename": "126_f636.png",
+      "keptFilename": "0126_magmar_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "613a3437859ecb85726ee582ee1301797637de62db4fae04d010cdd26234a735",
+      "keptSha256": "0a860224ca5cccaae6757806816463c8c6e433ddccce2b56fea3e194009f62c0"
+    },
+    {
+      "removedFilename": "0127_pinsir_shadow_2.png",
+      "oldFilename": "127_f899.png",
+      "keptFilename": "0127_pinsir_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "82a194c28e1c37c4c63ec22a3dad2fa40a99c3eed87ac57d55b06c750198b59d",
+      "keptSha256": "763405aa5e65436b5ac226f67639bee36c3fa2ce4ab30054832c0b6383367efc"
+    },
+    {
+      "removedFilename": "0127_pinsir_purified_2.png",
+      "oldFilename": "127_f900.png",
+      "keptFilename": "0127_pinsir_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "1b5ab93aebe0f4124571ae2c600e036853174d3418f94902ad7af1647c2e8d4b",
+      "keptSha256": "b853ab92bc02c37d79334dea1c98834ab3083017a80193939b63d28c23fa801c"
+    },
+    {
+      "removedFilename": "0129_magikarp_shadow_2.png",
+      "oldFilename": "129_f254.png",
+      "keptFilename": "0129_magikarp_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "03e08338d7ca1f9cfeb206946c476c60283fe2a7db6766257f96dbd4569e07e6",
+      "keptSha256": "336da791e244c50292c5c83d49695a29ed90e37ccac718f329cca35422a34d82"
+    },
+    {
+      "removedFilename": "0129_magikarp_purified_2.png",
+      "oldFilename": "129_f255.png",
+      "keptFilename": "0129_magikarp_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "581fdb786d719694e96266f4ee61ff7c5e4695c7c5f60a5b0ec4df78f99a6313",
+      "keptSha256": "907011cf16790742f578251158ef494ca8ef527d0bd58ed9e883ed838f707c2c"
+    },
+    {
+      "removedFilename": "0130_gyarados_shadow_2.png",
+      "oldFilename": "130_f257.png",
+      "keptFilename": "0130_gyarados_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "92ba38345e38371df0df1b173f32a494ede24f0dbddbde80b7233a2816f76b29",
+      "keptSha256": "27c6e4deb0ee58978684ea625fb2c52745b4a2f636f745caa73a533c569a045f"
+    },
+    {
+      "removedFilename": "0130_gyarados_purified_2.png",
+      "oldFilename": "130_f258.png",
+      "keptFilename": "0130_gyarados_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "6d1799a2e68deccdb92e77186f282fa7f8ab1baef6ca2d86d4129d1d7ba23252",
+      "keptSha256": "8caffd6b583450a90d481055a2d0f11e028936fba81f86f059593cf5cd32c2c5"
+    },
+    {
+      "removedFilename": "0131_lapras_shadow_2.png",
+      "oldFilename": "131_f323.png",
+      "keptFilename": "0131_lapras_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5c08ba25196c0e887b096a441c31d810a79a4e9744b5901b75a8853bed2ce8b8",
+      "keptSha256": "ca9557ae34de8b85a0bbd3afa648d2e9bdb6b469d5c23b85af9256c09d9d9602"
+    },
+    {
+      "removedFilename": "0131_lapras_purified_2.png",
+      "oldFilename": "131_f324.png",
+      "keptFilename": "0131_lapras_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "09b6db877654de4c1664beaa72b8e17fe6f1f2effc99da98ee91275a0203ead4",
+      "keptSha256": "bfc5217d4e4d3154c33ab01424ecba4977d4292ad111dfd2c317f6cd3feac506"
+    },
+    {
+      "removedFilename": "0137_porygon_shadow_2.png",
+      "oldFilename": "137_f678.png",
+      "keptFilename": "0137_porygon_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "b1aed4f75f09cec7a5a46d85ba6212ae523182aa089b4dc7c63486fbab7e5390",
+      "keptSha256": "e3481921da2d4471a0a1b5c1e6b44d3c68904736d067faef59e5e70c79c69201"
+    },
+    {
+      "removedFilename": "0137_porygon_purified_2.png",
+      "oldFilename": "137_f679.png",
+      "keptFilename": "0137_porygon_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "4d107b4addff69df375a21ab1197f0afd0eca7079612d4fd5eb76c9355be5b64",
+      "keptSha256": "3f7485aa375fbc346f91111746204ee7799d4796fb74fb5457108b92883dd846"
+    },
+    {
+      "removedFilename": "0138_omanyte_shadow_2.png",
+      "oldFilename": "138_f741.png",
+      "keptFilename": "0138_omanyte_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "4f165cd247edc365a294ba436a9e20e07be351c11e2c0c634da4263e763bedcb",
+      "keptSha256": "94ce646d3478db43671120839db31fb3ee5d05b6e76ec07fb19592a770fc1ca2"
+    },
+    {
+      "removedFilename": "0138_omanyte_purified_2.png",
+      "oldFilename": "138_f742.png",
+      "keptFilename": "0138_omanyte_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "683f395a38ffcb1b6aaf2975d70503b1f9a8788c5fefdf28da537b412758d35b",
+      "keptSha256": "e35770b7a16464863c8717557ea90bf87db725f0ae6bf5f05ca9db6aef163011"
+    },
+    {
+      "removedFilename": "0139_omastar_shadow_2.png",
+      "oldFilename": "139_f744.png",
+      "keptFilename": "0139_omastar_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "c769035997d74091ba59f6ece443c20768f6bbd6e4ee14b0d066f0cb56a62eac",
+      "keptSha256": "9dcfffea389b13740ab6befa2e556deed972386d834749d99a7382c0ea779cc7"
+    },
+    {
+      "removedFilename": "0139_omastar_purified_2.png",
+      "oldFilename": "139_f745.png",
+      "keptFilename": "0139_omastar_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "60fabcf0e963d9f8ed0d5470bce51407bc6f4d114e3a7690605409f2b87ae0b4",
+      "keptSha256": "0fc3cd5d4703bce975f338f05ec5f2d91ebe8e1525172a63348c67443b802956"
+    },
+    {
+      "removedFilename": "0143_snorlax_shadow_2.png",
+      "oldFilename": "143_f200.png",
+      "keptFilename": "0143_snorlax_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "ebbb2722506aef4b2d9191ac41f643a1a5fad4707093e2a34ca75a3476fff4c6",
+      "keptSha256": "9d10cbed558c114b95564b5fd5a4f3c145459e3848c50ffd562b0b6f87312f63"
+    },
+    {
+      "removedFilename": "0143_snorlax_purified_2.png",
+      "oldFilename": "143_f201.png",
+      "keptFilename": "0143_snorlax_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "9b89e86c1c7cf0ec1f9b26ca96177a5079ce2d69dfe88cd34572532431c18297",
+      "keptSha256": "62c9e92984a57391cf3fef38bba5d258cd84b750571462de39027b18002f2dff"
+    },
+    {
+      "removedFilename": "0144_articuno_shadow_2.png",
+      "oldFilename": "144_f717.png",
+      "keptFilename": "0144_articuno_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "2cd27a2e3dde14353cc67c0f4b75ca9f0da304315ee67813b1e240c782693d6e",
+      "keptSha256": "f3c4e3ad085c8a68d533de33b8aec731bc92e97eac611a1e98bdf17c61fb70f7"
+    },
+    {
+      "removedFilename": "0144_articuno_purified_3.png",
+      "oldFilename": "144_f718.png",
+      "keptFilename": "0144_articuno_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "affe79d06c50c810e814440a9b5f3f4f584db1427a0c7b79d22daed99f98474e",
+      "keptSha256": "23d074b7e8dbb3c19a58ad8913df5ec3994a086140fc4c6140292d6853bb3e2c"
+    },
+    {
+      "removedFilename": "0144_articuno_purified_2.png",
+      "oldFilename": "144_fa2.png",
+      "keptFilename": "0144_articuno_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "affe79d06c50c810e814440a9b5f3f4f584db1427a0c7b79d22daed99f98474e",
+      "keptSha256": "23d074b7e8dbb3c19a58ad8913df5ec3994a086140fc4c6140292d6853bb3e2c"
+    },
+    {
+      "removedFilename": "0145_zapdos_shadow_2.png",
+      "oldFilename": "145_f774.png",
+      "keptFilename": "0145_zapdos_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "ca34a2969817d91db3602cb4d3de15c57c05c5cfe34ed56494f79cb3ed104577",
+      "keptSha256": "58f8f42f17029ab0e237b4f87d2a176eb75a6f9130e7b8e3fc60273e65fdfd9b"
+    },
+    {
+      "removedFilename": "0145_zapdos_purified_2.png",
+      "oldFilename": "145_f775.png",
+      "keptFilename": "0145_zapdos_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "3ba38dd541549a89827baeaf89ebcd696ddc63761be9b1a21ffccef0376b099b",
+      "keptSha256": "adbd51cc4e99478d8e79a583b19aea6acd6ad3ccbc2048fbb3ad50045ed8166a"
+    },
+    {
+      "removedFilename": "0146_moltres_shadow_2.png",
+      "oldFilename": "146_f837.png",
+      "keptFilename": "0146_moltres_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "69785ee0e83e3a5bef0a4ca50cdefb8afb10cb81d387cf6e28403417af0fc3e0",
+      "keptSha256": "253ceb3784668058ffcecbdc38e48f0226f6c9d28be60a650d459cbff516ebac"
+    },
+    {
+      "removedFilename": "0146_moltres_purified_2.png",
+      "oldFilename": "146_f838.png",
+      "keptFilename": "0146_moltres_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "967b5057e65ead16ef4d0597b0a591a0388212b0fb8ce2712d38ebddc2c49375",
+      "keptSha256": "395274d97887589b520ae0ac63a9caf287bda7cd75f5eb959b652aab0db260aa"
+    },
+    {
+      "removedFilename": "0147_dratini_shadow_2.png",
+      "oldFilename": "147_f191.png",
+      "keptFilename": "0147_dratini_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "4bb08bdde875ad198f3a27c19402bf105792004826b8dacd6233632893df4425",
+      "keptSha256": "d2b310a018b20f9ecac79b633c242a0ce6b3cc65a4d2c2884cce4ac21b3da90f"
+    },
+    {
+      "removedFilename": "0147_dratini_purified_2.png",
+      "oldFilename": "147_f192.png",
+      "keptFilename": "0147_dratini_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "4f14241c0a3355501231391a32e05c8deaebbb4ba1ca3a206ee423d1b37b9753",
+      "keptSha256": "5a88805510188a7e30bae574c1d3045fbbf8b07505ebf2c8e7a0bea147acabb5"
+    },
+    {
+      "removedFilename": "0148_dragonair_shadow_2.png",
+      "oldFilename": "148_f194.png",
+      "keptFilename": "0148_dragonair_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "d434e614f4605dcc8210663f2f75afc7ab54283223b59fbcca552598b4c00c62",
+      "keptSha256": "d86f25cbc8ba1208fd987ad3da5426ec1e059abe93ff5439984affe25777832a"
+    },
+    {
+      "removedFilename": "0148_dragonair_purified_2.png",
+      "oldFilename": "148_f195.png",
+      "keptFilename": "0148_dragonair_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "337cef9fa5c81008e916c9339b3bd37f5638a97782dd3f798a288599007f6007",
+      "keptSha256": "e36023ee5206af1e541d9b741ef70d5256809d85f70c70a85e73896a5c2a2a12"
+    },
+    {
+      "removedFilename": "0149_dragonite_shadow_2.png",
+      "oldFilename": "149_f197.png",
+      "keptFilename": "0149_dragonite_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "9f83da8740505dcaf39c9ab197c896c1db88c8ddcef9a2f79d6848019fa66962",
+      "keptSha256": "304ce7715701fbbb7d5392d07b509e3f928572db46e1bd60f504fced4c797442"
+    },
+    {
+      "removedFilename": "0149_dragonite_purified_2.png",
+      "oldFilename": "149_f198.png",
+      "keptFilename": "0149_dragonite_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "faf4c1af2e07dc608a75db1d5e3dfd2a0814d56f5d8c3b0e81f9b926c63994f3",
+      "keptSha256": "03bd74d8e8afdc5352633fe47901a491a01b5496c4884ad519512644e6d4b1a8"
+    },
+    {
+      "removedFilename": "0150_mewtwo_shadow_2.png",
+      "oldFilename": "150_f1113.png",
+      "keptFilename": "0150_mewtwo_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "8c604d6ef53bcdb91adb0c8da432fa57e26630ad8ab317c5aaa25e3234a1a4f6",
+      "keptSha256": "fcd786381694043a963d51a3394c7051a7ec614188cfe3c244e35892613488ca"
+    },
+    {
+      "removedFilename": "0153_bayleef_purified_2.png",
+      "oldFilename": "153_f1123.png",
+      "keptFilename": "0153_bayleef_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "4e3727a1a212b13f612f0685bb8a4a54731404564a17c1ea1840556e793a996d",
+      "keptSha256": "13cde6224a8ff314d7c827a479d8560c9434d7e4f2b451af7027b51ff0eb502d"
+    },
+    {
+      "removedFilename": "0156_quilava_shadow_2.png",
+      "oldFilename": "156_f1131.png",
+      "keptFilename": "0156_quilava_shadow.png",
+      "identicalBytes": true,
+      "removedSha256": "4c920237afd52f099bcdcb2b62a07d291bce0dcf1212328e628553c2b76a0cea",
+      "keptSha256": "4c920237afd52f099bcdcb2b62a07d291bce0dcf1212328e628553c2b76a0cea"
+    },
+    {
+      "removedFilename": "0159_croconaw_shadow_2.png",
+      "oldFilename": "159_f1140.png",
+      "keptFilename": "0159_croconaw_shadow.png",
+      "identicalBytes": true,
+      "removedSha256": "42374befa38fab9422897f4431694e0dd05b545dad4c02941d99c373a2a96333",
+      "keptSha256": "42374befa38fab9422897f4431694e0dd05b545dad4c02941d99c373a2a96333"
+    },
+    {
+      "removedFilename": "0169_crobat_shadow_2.png",
+      "oldFilename": "169_f203.png",
+      "keptFilename": "0169_crobat_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "dad48b68dcdf877bfa70e313e2c8c370fd37d7e4b38a07d0cf4105273a886bae",
+      "keptSha256": "8e9fe9feb18f92994bcf22a0fc7b8a0a2c67f062e2b669d5ebcc58104053b89e"
+    },
+    {
+      "removedFilename": "0169_crobat_purified_2.png",
+      "oldFilename": "169_f204.png",
+      "keptFilename": "0169_crobat_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ed6c47da17b1bd0377a1afaf398d36535d182cf07940bf7178d4ee14e76e277d",
+      "keptSha256": "3deb82832d8da5d512315d7c6a27f864ad96bec02e257ea24f1d4bd86afe4d87"
+    },
+    {
+      "removedFilename": "0172_pichu_event_costume_2_2.png",
+      "oldFilename": "172_f1175_c28.png",
+      "keptFilename": "0172_pichu_event_costume_2.png",
+      "identicalBytes": true,
+      "removedSha256": "ede171553ae1f61b57b35646f3acf87ef0454479054fc663d741531b1c3a6667",
+      "keptSha256": "ede171553ae1f61b57b35646f3acf87ef0454479054fc663d741531b1c3a6667"
+    },
+    {
+      "removedFilename": "0179_mareep_shadow_2.png",
+      "oldFilename": "179_f647.png",
+      "keptFilename": "0179_mareep_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "1e8e29d3819a6f99c3ffa939f5f9a040de98de013c3af801e5fbfac116813741",
+      "keptSha256": "ba3babfeefd88f19bee0b61669cc4d8f2554906639c872ca3fc09ceac6f2b67d"
+    },
+    {
+      "removedFilename": "0179_mareep_purified_2.png",
+      "oldFilename": "179_f648.png",
+      "keptFilename": "0179_mareep_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ac72dbfb82cd320cb962309b5882c7aefd585b1232eb1ca64ce6b7ebb96f9a25",
+      "keptSha256": "d8afa5fb175cb7d2a6340da997537e08fe484c31bc58a876a7b9e58b5a355fb8"
+    },
+    {
+      "removedFilename": "0180_flaaffy_shadow_2.png",
+      "oldFilename": "180_f650.png",
+      "keptFilename": "0180_flaaffy_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "b4c0df64515df861aacf2c98d75b16d98d0d59912a5cbb0c0e944dd3dc5b8b39",
+      "keptSha256": "66baa60596bc39f911c991e4ba676dc1cded2526b19c2f14891079803e22662f"
+    },
+    {
+      "removedFilename": "0180_flaaffy_purified_2.png",
+      "oldFilename": "180_f651.png",
+      "keptFilename": "0180_flaaffy_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "5c7a9d4b42a98749d26f14d0d9c9b26bfda255504ee425bb18da6d8c9f5dcf04",
+      "keptSha256": "98cba5a230cef2f423f0fed923fc047f410e7c44083ffd52a6a572c150bd0e57"
+    },
+    {
+      "removedFilename": "0181_ampharos_shadow_2.png",
+      "oldFilename": "181_f653.png",
+      "keptFilename": "0181_ampharos_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "c7c49d862801e7c4db262aaa741228ae2b44a7b0d3b431a55a423bfdf0bfff3d",
+      "keptSha256": "10698c6736f34b9a62422b9b30126431fea3641b5390a92ca907e81fe65ea7f0"
+    },
+    {
+      "removedFilename": "0181_ampharos_purified_2.png",
+      "oldFilename": "181_f654.png",
+      "keptFilename": "0181_ampharos_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "c9e818fd621b513869da6ef82393f22f235b850e4ab19a43e08f82b83aeabead",
+      "keptSha256": "820f01d3cf83a346a60b1ffa58f6c56a5c505ef23d56978379eb28da71490fdc"
+    },
+    {
+      "removedFilename": "0182_bellossom_shadow_2.png",
+      "oldFilename": "182_f275.png",
+      "keptFilename": "0182_bellossom_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "522d08ac20ac0fd8edd99376cfb4c51a31d2f1971aba27bd6ea1cffbdc5c0879",
+      "keptSha256": "e8153379129547031e762032a651c3d268de2f87c257aff251716ef58e32977e"
+    },
+    {
+      "removedFilename": "0182_bellossom_purified_2.png",
+      "oldFilename": "182_f276.png",
+      "keptFilename": "0182_bellossom_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "0edd05b56b317a96ab1f39653dffde5c11e9beeeca9a4c242b71b0546e5ecbc0",
+      "keptSha256": "09f67406dabe92a5d96c910d7aaadb840e6b51aa8c0513e53c7e7dc900e31c1c"
+    },
+    {
+      "removedFilename": "0186_politoed_shadow_2.png",
+      "oldFilename": "186_f245.png",
+      "keptFilename": "0186_politoed_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "1066f2df144b71c54d4b32064b4f5fc3616029c858e9de66caa3d70e341892f8",
+      "keptSha256": "4f09f4c5470e49076c8de2ab2faa60198a332df3d20b7c0adb14def1e3239d4c"
+    },
+    {
+      "removedFilename": "0186_politoed_purified_2.png",
+      "oldFilename": "186_f246.png",
+      "keptFilename": "0186_politoed_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "5c3d5d0669072c97b3df35a6d64d8d9d3a4cad33d30b5b4383c7bdd34531de37",
+      "keptSha256": "79d3fe5315abe6a5491f0c2c45424ea9d0cf518f5b59348a80a1ef45afe2d169"
+    },
+    {
+      "removedFilename": "0187_hoppip_shadow_2.png",
+      "oldFilename": "187_f1206.png",
+      "keptFilename": "0187_hoppip_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "939f1a4240a647720f0e6c1ca7e5eea6dcec9fbb295777e04f74eeec7bb4e189",
+      "keptSha256": "7b4e4a0343fc663106fe02bf7d5ff7d434e19961cc93f71307b7d37e387bf71e"
+    },
+    {
+      "removedFilename": "0188_skiploom_shadow_2.png",
+      "oldFilename": "188_f1209.png",
+      "keptFilename": "0188_skiploom_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "18e1927bf8f5bc6011d7171444d812a977e4436fa2d4df15dcc70c05d782fc3f",
+      "keptSha256": "74ae3fefc1ca476ef7ac84e5e38b9fc76cde0fdceec7b11ec5d3c36340d649fb"
+    },
+    {
+      "removedFilename": "0198_murkrow_shadow_2.png",
+      "oldFilename": "198_f856.png",
+      "keptFilename": "0198_murkrow_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "de75ab63862ba0d04e9502302d36f9f1a556b99ad933959c8d98dc9665621b53",
+      "keptSha256": "1066fc79153b046a7ad9cf8e316d18c695604b0f4416dba6354e1418082a7f75"
+    },
+    {
+      "removedFilename": "0198_murkrow_purified_2.png",
+      "oldFilename": "198_f857.png",
+      "keptFilename": "0198_murkrow_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "b80e71f3fc3ba783198754c88136557095742ffff2639dfab9e5957c966af41e",
+      "keptSha256": "64161630cc0d609923c49b526c6c8ca05f22dce68c7e04fd37df3f8f9bb543b4"
+    },
+    {
+      "removedFilename": "0200_misdreavus_shadow_2.png",
+      "oldFilename": "200_f720.png",
+      "keptFilename": "0200_misdreavus_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "3e86c6fd8bb64062862b90117db1366ff8f28cae18deecf0f7c774d964244ee7",
+      "keptSha256": "bc01361ff910cb8fde7c5ab8f537b4dfe2088f997ca2df0829c064f0d9cee87a"
+    },
+    {
+      "removedFilename": "0200_misdreavus_purified_2.png",
+      "oldFilename": "200_f721.png",
+      "keptFilename": "0200_misdreavus_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ee3663dd38b75ed8809c9f6e080052a1b692f8734ed99c9a6ce409602adfc48a",
+      "keptSha256": "bae6d3808031efa6599a9a46c7e1ba9467c967476e91134b567be94cd5a937d7"
+    },
+    {
+      "removedFilename": "0202_wobbuffet_shadow_2.png",
+      "oldFilename": "202_f686.png",
+      "keptFilename": "0202_wobbuffet_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "b27e9b719a6ff5d7e6ae589a67ad798c6c1596494f3f5b12c4f18f8de8131fc5",
+      "keptSha256": "4a4e00463bebcf8157ad06555a3fb101ff434d45382a0f1f558861d67ce420cc"
+    },
+    {
+      "removedFilename": "0202_wobbuffet_purified_2.png",
+      "oldFilename": "202_f687.png",
+      "keptFilename": "0202_wobbuffet_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "c77f800fa355147bf93459a8c142ef95c25561b19914bb0e6669957130935b6e",
+      "keptSha256": "791c9ce15488fccd441aea353ce41788e92466a9ef209410d4e8d54bbb151300"
+    },
+    {
+      "removedFilename": "0202_wobbuffet_femelle_shadow_2.png",
+      "oldFilename": "202_f686_g2.png",
+      "keptFilename": "0202_wobbuffet_femelle_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "90ea5e0a341dcc9a7bc286c2e5d13f291119e2fb37eb8a0476db58785c195fa0",
+      "keptSha256": "ede1f705d015aee4d1df8515ca7a99cd1973935cbe075236beedcfb738abe259"
+    },
+    {
+      "removedFilename": "0202_wobbuffet_femelle_purified_2.png",
+      "oldFilename": "202_f687_g2.png",
+      "keptFilename": "0202_wobbuffet_femelle_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "3ce3d63682711cb110309ee892f3eba4dad53bb8b246a35e04e42ce189e4a892",
+      "keptSha256": "2861b1e3e7e7a7b15033f592d6e743bde66f5c34fcbeb8ad3a24452a86290b51"
+    },
+    {
+      "removedFilename": "0207_gligar_shadow_2.png",
+      "oldFilename": "207_f804.png",
+      "keptFilename": "0207_gligar_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "571a5c77bb35e7df41cf5cd206ec33b0997bf36ff13ccc34db8b399981d44d0b",
+      "keptSha256": "e1e226013081ad731cd234e7fc9cf952c801154ab8b16d945b02507f06f1072c"
+    },
+    {
+      "removedFilename": "0207_gligar_purified_2.png",
+      "oldFilename": "207_f805.png",
+      "keptFilename": "0207_gligar_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "5b826ca389e58a4c8caa8a6972344879aaa96b6f4c4a7ef4a48ca1f16153f6e9",
+      "keptSha256": "eff671c51d52c3ba33843defb6ffbdb3cfef6e9038867ebb8746d570def2fccb"
+    },
+    {
+      "removedFilename": "0208_steelix_shadow_2.png",
+      "oldFilename": "208_f906.png",
+      "keptFilename": "0208_steelix_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "481a095983ef0df9ea791a1725bddf93ae2ede6962fa8dd9bf87930321ba0f97",
+      "keptSha256": "3c5848d1ca8cee79c57cc4fe7ee698441f0c6b32d16f3dac0d6d3ba4c81f758e"
+    },
+    {
+      "removedFilename": "0208_steelix_purified_2.png",
+      "oldFilename": "208_f907.png",
+      "keptFilename": "0208_steelix_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "dd63337e6f004f44ef80602260cda37d9987a632150e272034a9b2bf8fdc68b9",
+      "keptSha256": "8c939701468d6d34994e5c3f13f4db6ebd8e6812a982eecc1ac3aa4985b2e9fa"
+    },
+    {
+      "removedFilename": "0209_snubbull_shadow_2.png",
+      "oldFilename": "209_f1254.png",
+      "keptFilename": "0209_snubbull_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "fd46cf66f35173f159e432319f9378865f8a396acb54df67751a9cfbc346d837",
+      "keptSha256": "fd1de859f80fee1830055e658a25b07e5681019242155bcbe593531c4ecbeac7"
+    },
+    {
+      "removedFilename": "0212_scizor_shadow_2.png",
+      "oldFilename": "212_f251.png",
+      "keptFilename": "0212_scizor_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "b2a9afd24f1dddcdaaf1fda372452f9c96ae3a3f6137f37d0a82914e758d8ff9",
+      "keptSha256": "cc6daa4b8e12539a683caed2451b9fb71b88d836b5a9b9cce502850be66aaa3a"
+    },
+    {
+      "removedFilename": "0212_scizor_purified_2.png",
+      "oldFilename": "212_f252.png",
+      "keptFilename": "0212_scizor_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ba53d7bbb0e97ddd3ac6521a043c85914a6e01f095968f5f9369658096ca3a36",
+      "keptSha256": "141be59ce2db9ae5397f5212ddc9985d365ac3dbd737b8973ba393f5d3c5e86e"
+    },
+    {
+      "removedFilename": "0213_shuckle_shadow_2.png",
+      "oldFilename": "213_f828.png",
+      "keptFilename": "0213_shuckle_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "257260766fbb82097fda711cd845076bfe34f93f1a560b4e218ae3726fe3bb74",
+      "keptSha256": "350a8c26af5f73a48ae7d9a187d9bea31573e2d1b6ecbea73c0db5f454cff79b"
+    },
+    {
+      "removedFilename": "0213_shuckle_purified_2.png",
+      "oldFilename": "213_f829.png",
+      "keptFilename": "0213_shuckle_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "b5e8127335233e6444647ff0fbb84a18c0bbf558ec75971c7887d5399577ef7d",
+      "keptSha256": "0eddda0602106915a0ce68cdeb119639bbcd3296bfd6777e758a842617b5076f"
+    },
+    {
+      "removedFilename": "0215_sneasel_shadow_2.png",
+      "oldFilename": "215_f798.png",
+      "keptFilename": "0215_sneasel_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "ac1b6d2bc4e1348cd2f44711d50e46e9b718417f7490e5197c1e4e3dea8b2a8f",
+      "keptSha256": "72e1a3664b89238b7baf991d50cee21d330338e6d56fe187edc458d9f3dfce06"
+    },
+    {
+      "removedFilename": "0215_sneasel_purified_2.png",
+      "oldFilename": "215_f799.png",
+      "keptFilename": "0215_sneasel_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "2268e8c558d1875ea614ef97411c5fbddacdbe9d10c7b655442a7c6ebb306fc3",
+      "keptSha256": "b0b2c36ae52916c6ac4287d07340c6491f448ace23e5b3426eb3e3198b6c311a"
+    },
+    {
+      "removedFilename": "0216_teddiursa_shadow_2.png",
+      "oldFilename": "216_f1266.png",
+      "keptFilename": "0216_teddiursa_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "e6375716c5b8cab3786db0bfd3230fbaa715b26e46d412fd8d6760f73537568b",
+      "keptSha256": "e10f491ab16d422c27d096d404523f31905304b4e13f792caf6168f018d60a14"
+    },
+    {
+      "removedFilename": "0220_swinub_shadow_2.png",
+      "oldFilename": "220_f1278.png",
+      "keptFilename": "0220_swinub_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "90885b42240cee1795b2238380d0e5ed07d01db62086c6d2d6394432b87c610c",
+      "keptSha256": "4512394b5378a4a71bb2a2c42e62774d2da9824c2ea3c97999efc69368b6ad07"
+    },
+    {
+      "removedFilename": "0225_delibird_shadow_2.png",
+      "oldFilename": "225_f939.png",
+      "keptFilename": "0225_delibird_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5b21e66654aed3fd6e8c33f268d46507f3b844561d8f6ea44e7d3ed913031fd6",
+      "keptSha256": "d35c09dc539c7c192f8cf4954c07d126d921ff1c86e67ecce6c428694d2191c4"
+    },
+    {
+      "removedFilename": "0225_delibird_purified_2.png",
+      "oldFilename": "225_f940.png",
+      "keptFilename": "0225_delibird_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ac8d221a330931b9d495757a3a2d2fc8f3e4e618efd91fcfea724615d4678305",
+      "keptSha256": "31c1ded31c9b4ecda06d8129ed425e12de1ddde106445694adcaa5d189510f46"
+    },
+    {
+      "removedFilename": "0228_houndour_shadow_2.png",
+      "oldFilename": "228_f230.png",
+      "keptFilename": "0228_houndour_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "b3de1082863a07bdec6606414c61bc72406e136f9c3bda97f04ce7346d8cf814",
+      "keptSha256": "16519d9e8c346e3106b899970be6dcef3e47392d2516475427585992360f885b"
+    },
+    {
+      "removedFilename": "0228_houndour_purified_2.png",
+      "oldFilename": "228_f231.png",
+      "keptFilename": "0228_houndour_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "787573261606a5b9ff0745dfa785ff4307a0b5d00fbe0173f6ef790856062034",
+      "keptSha256": "cd950f5782fe49bef1c61f0593b4b1b5f5946c246052431a447aefd3bc8883a3"
+    },
+    {
+      "removedFilename": "0229_houndoom_shadow_2.png",
+      "oldFilename": "229_f233.png",
+      "keptFilename": "0229_houndoom_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "bafa303b56d638ebeea4d2557ce48fc07437a6272cdf8eca490bf90f90442935",
+      "keptSha256": "dd335450df9ec540fc174733c8cccddbed3d337d860906a8e9967a8d418a49bc"
+    },
+    {
+      "removedFilename": "0229_houndoom_purified_2.png",
+      "oldFilename": "229_f234.png",
+      "keptFilename": "0229_houndoom_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "94feddd2c99e1f80e132c4ebb3c873b828aa5a70bc37ec9aea043a5b4626d759",
+      "keptSha256": "d6ccf09e6679542f88363e39dc8064d6903d8789e997d1ae77cd62962c009643"
+    },
+    {
+      "removedFilename": "0233_porygon2_shadow_2.png",
+      "oldFilename": "233_f681.png",
+      "keptFilename": "0233_porygon2_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "f78eede658546d58701b30382ceee721065ba614edd5fff101d923ad4c84a8d4",
+      "keptSha256": "ac7fffcc190e45527cb60639042663a521cb2bd45e0d0bacb2a7f18c6469ca01"
+    },
+    {
+      "removedFilename": "0233_porygon2_purified_2.png",
+      "oldFilename": "233_f682.png",
+      "keptFilename": "0233_porygon2_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "a69d42c1c65e91111207993036c9ff704f8e640a153be0cc54c5c161eeca0f27",
+      "keptSha256": "e79e4c661aa81dd99ade20a8acc2c09f34987220b9e091ebdbf965517954f7e7"
+    },
+    {
+      "removedFilename": "0234_stantler_shadow_2.png",
+      "oldFilename": "234_f942.png",
+      "keptFilename": "0234_stantler_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "a8b0df5a6fdbbd17673cb4f51979099c2873256ac1c0e912e926448bbbe56bad",
+      "keptSha256": "b07f8727342c684688e3806f1a79f03243955a5127a75ef1a303c842732d7da8"
+    },
+    {
+      "removedFilename": "0234_stantler_purified_2.png",
+      "oldFilename": "234_f943.png",
+      "keptFilename": "0234_stantler_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "b26815db9a7191b36473227069ce55f3ee890d3f289a67a6257fa3bab4eca9a1",
+      "keptSha256": "bbc3647142870bb733d17793b16764ef971e0ffb2910b9dd3ab9077cc2295720"
+    },
+    {
+      "removedFilename": "0238_smoochum_event_fall_2020_noevolve_2.png",
+      "oldFilename": "238_f1316_c16.png",
+      "keptFilename": "0238_smoochum_event_fall_2020_noevolve.png",
+      "identicalBytes": true,
+      "removedSha256": "1755cde210d2098f01ff5bae7da3956c8a4abe37e00c40a827e1a794f3ce9645",
+      "keptSha256": "1755cde210d2098f01ff5bae7da3956c8a4abe37e00c40a827e1a794f3ce9645"
+    },
+    {
+      "removedFilename": "0242_blissey_event_november_2018_2.png",
+      "oldFilename": "242_f1328_c7.png",
+      "keptFilename": "0242_blissey_event_november_2018.png",
+      "identicalBytes": true,
+      "removedSha256": "c99eb4c4954ff16cfe5d7ed331bc4bdb05c1b14b19663a178b2a0943e274c20b",
+      "keptSha256": "c99eb4c4954ff16cfe5d7ed331bc4bdb05c1b14b19663a178b2a0943e274c20b"
+    },
+    {
+      "removedFilename": "0246_larvitar_shadow_2.png",
+      "oldFilename": "246_f314.png",
+      "keptFilename": "0246_larvitar_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "88597c1f4f21bbc22934d80534ad9ebe9a95727718bd63271a3fc92ccddb0187",
+      "keptSha256": "d1b4a8f483c225407e5d4948c68a2b936e875124c503fbde2b738f2ef8bbf018"
+    },
+    {
+      "removedFilename": "0246_larvitar_purified_2.png",
+      "oldFilename": "246_f315.png",
+      "keptFilename": "0246_larvitar_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "eef046cbb46c4bd0aa5c86f78074b798e714c74cc9b7ff902fc8f1f10198c2b2",
+      "keptSha256": "712b9ec476aa3a2d5a97709883a0cc8a137a1348cd28bea2cf0cf61144ae5636"
+    },
+    {
+      "removedFilename": "0247_pupitar_shadow_2.png",
+      "oldFilename": "247_f317.png",
+      "keptFilename": "0247_pupitar_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "94d61133ffa5e1cb7e85a338cebec260f0c0d452b68750985ed76083e22929a2",
+      "keptSha256": "1e95fbc4a7a0d16617ae618c7e19f6ee3b337680206d7fd3ede71cbe17529c1a"
+    },
+    {
+      "removedFilename": "0247_pupitar_purified_2.png",
+      "oldFilename": "247_f318.png",
+      "keptFilename": "0247_pupitar_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "9ad34d0988c4b8f630aec7e1cbd80165206e600377e6b9030d9913c8740970df",
+      "keptSha256": "1732ac5ff0214f5490b5d20885fe1a23e36b958bc55edd66a3c678df0357633e"
+    },
+    {
+      "removedFilename": "0248_tyranitar_shadow_2.png",
+      "oldFilename": "248_f320.png",
+      "keptFilename": "0248_tyranitar_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "410a0b91e4776b1d2ae493d61b348a4739c67a1371f2baab5546c6f451229783",
+      "keptSha256": "85736a4b0382eb0cf0ef55b38b29cf44bdea3684a66d59ebaa3873f686b47c89"
+    },
+    {
+      "removedFilename": "0248_tyranitar_purified_2.png",
+      "oldFilename": "248_f321.png",
+      "keptFilename": "0248_tyranitar_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "50dd2b98294e951110e9d276b547c7546c819b0d7a84f8bca057fca814593cf8",
+      "keptSha256": "b3136fcdf4b16a3cad549c8726c4c695c30ff761d588f0c7370a918f8c8b0398"
+    },
+    {
+      "removedFilename": "0258_mudkip_shadow_2.png",
+      "oldFilename": "258_f206.png",
+      "keptFilename": "0258_mudkip_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5864cb1a53e012726576917a351a11242a74fcba2b5f2b3b1daba93ace1f305d",
+      "keptSha256": "56f7a895a8db7004c1f490f31cd1f23f3917347a02711ab43633f36aa5e97bb6"
+    },
+    {
+      "removedFilename": "0258_mudkip_purified_2.png",
+      "oldFilename": "258_f207.png",
+      "keptFilename": "0258_mudkip_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ff2c6959781e5c3f4592c4b7014b498cbc30148dce4a119c8da93e090ae58bfd",
+      "keptSha256": "e777d27187c2c66ac0aff40d407a2d0046631db26f83f4a932f544456123846b"
+    },
+    {
+      "removedFilename": "0259_marshtomp_shadow_2.png",
+      "oldFilename": "259_f209.png",
+      "keptFilename": "0259_marshtomp_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "b34c635fce02931a857a4146de8d49efc4054f42854a3994d60388a762d3490b",
+      "keptSha256": "815c7ff86fb1bea9b9b90503fbd70181ee3d154b4e05ce68a35dbb241d64081e"
+    },
+    {
+      "removedFilename": "0259_marshtomp_purified_2.png",
+      "oldFilename": "259_f210.png",
+      "keptFilename": "0259_marshtomp_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "4e4f5e666994256f76508b27c9f4c9a44fc4beef55244948ecf073c4b0154eb6",
+      "keptSha256": "5ee24e089d252bc2d68de1650ef42ffce3f81245e50d727a6e8e9d2226ccb714"
+    },
+    {
+      "removedFilename": "0260_swampert_shadow_2.png",
+      "oldFilename": "260_f212.png",
+      "keptFilename": "0260_swampert_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "83ef54de94b47361561997e7c253d4d65106809d1a5a3739981437ffb6ce9417",
+      "keptSha256": "86bca3aa7d6fd75853210faa1353f798ef7f31a12239725d1ed0c733d4a3a28c"
+    },
+    {
+      "removedFilename": "0260_swampert_purified_2.png",
+      "oldFilename": "260_f213.png",
+      "keptFilename": "0260_swampert_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "12db09821ebaae0f168cd1f9a326b2eab04bc1500e4e5de2a7cc3fd5487294d1",
+      "keptSha256": "222c7d93cbd895c14c44eecc4dcd0f862f6032d92460e87bc170130856c141b6"
+    },
+    {
+      "removedFilename": "0261_poochyena_shadow_2.png",
+      "oldFilename": "261_f1368.png",
+      "keptFilename": "0261_poochyena_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5a984ec30e5ad3fabd58fb1506b37e3e99b3fbc0bc8020f48bac6c1395211713",
+      "keptSha256": "1e34117a4fa5e8bd3331174a20c98980927e01cc42aa8937c57b5385890cde72"
+    },
+    {
+      "removedFilename": "0262_mightyena_shadow_2.png",
+      "oldFilename": "262_f1371.png",
+      "keptFilename": "0262_mightyena_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "d0e83dff38e00785a4a8408ebe9adcca6c1d27540335270b082ae47304b2d66d",
+      "keptSha256": "9c3dde274dbdb150cc5d96e88f99e370df5d4848338bb33cdd86c47802181b5d"
+    },
+    {
+      "removedFilename": "0273_seedot_shadow_2.png",
+      "oldFilename": "273_f626.png",
+      "keptFilename": "0273_seedot_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "00ee0f158b0d0f9499266b197fc4a193caa0836d8faad2c109d32f63413db2f8",
+      "keptSha256": "898cdb53754fa778e293e8a4e1155f73b29a4ab6f3b651fa6db73cc2a6046a21"
+    },
+    {
+      "removedFilename": "0273_seedot_purified_2.png",
+      "oldFilename": "273_f627.png",
+      "keptFilename": "0273_seedot_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "06e76a34210b26cbf6bacb1318257332437b2bce8c6b8258190baaa27b5cfbd5",
+      "keptSha256": "c72cb361f362af8fd0252f74063543e7b1719473e2f159526a94e4bfbf8025ca"
+    },
+    {
+      "removedFilename": "0274_nuzleaf_shadow_2.png",
+      "oldFilename": "274_f629.png",
+      "keptFilename": "0274_nuzleaf_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "4fcb7dcfcd217336d752e8663ce6b78fa04681da761810ccb73ce24508b5de7a",
+      "keptSha256": "bafa313a7a1a8a000d4cd666f59592956088127f933977c6b10b3d73e86b5d3c"
+    },
+    {
+      "removedFilename": "0274_nuzleaf_purified_2.png",
+      "oldFilename": "274_f630.png",
+      "keptFilename": "0274_nuzleaf_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "8b17e670063fe222875b8a4e752c8017393379201a1074ca3892166e596a28e3",
+      "keptSha256": "4aad6ae1b563eb17929ec97c830c39a3922cba50ee89e9a770547aaf9000d7fc"
+    },
+    {
+      "removedFilename": "0275_shiftry_shadow_2.png",
+      "oldFilename": "275_f632.png",
+      "keptFilename": "0275_shiftry_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "a0db2a1c3ad25b6ab9374ee0fb68335c1252bb3331c57033edf40bb6f608a7ba",
+      "keptSha256": "d263336b1687e2ab207d44e91ffc78648128034810bca390247c973ea419eda3"
+    },
+    {
+      "removedFilename": "0275_shiftry_purified_2.png",
+      "oldFilename": "275_f633.png",
+      "keptFilename": "0275_shiftry_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "02335dbd1df080087e17e277f2a29b2e6aad64ebfb9e75e5166f3efbb4c7b595",
+      "keptSha256": "02f6cbe410859ef558d5ed7651791944f7e53b4a01a538cddf033f14f97ddd04"
+    },
+    {
+      "removedFilename": "0280_ralts_shadow_2.png",
+      "oldFilename": "280_f293.png",
+      "keptFilename": "0280_ralts_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "f0d39e5e9c8dd2ab3f15672a7914c60c27bc0177c0c6100a0ed5c04ba3e6fbf0",
+      "keptSha256": "6990ad7db736c6193a9a4138b5c84088d74e114e572c263af0c4bcf32f912ed7"
+    },
+    {
+      "removedFilename": "0280_ralts_purified_2.png",
+      "oldFilename": "280_f294.png",
+      "keptFilename": "0280_ralts_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "df7a4475a99ed5fec2cb18beab20bbb80def11f993fc10d0a5000b8af565c19c",
+      "keptSha256": "3a31160760597583947467e0067995c9093a60880fd24793e3fa51ca95eecd71"
+    },
+    {
+      "removedFilename": "0281_kirlia_shadow_2.png",
+      "oldFilename": "281_f296.png",
+      "keptFilename": "0281_kirlia_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "13b035561fbd47bcbbe6598fe65635b5cb9b83fac047fc3a8831e706506614af",
+      "keptSha256": "018932e4f4ce4b361dd766d887b08614f3644257f2ab7da8d3b4a72de879aa5a"
+    },
+    {
+      "removedFilename": "0281_kirlia_purified_2.png",
+      "oldFilename": "281_f297.png",
+      "keptFilename": "0281_kirlia_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "394a7e0d18d5a85c00e08f8a4f472384f91753c40d2890f5f479e7cf7da264fc",
+      "keptSha256": "242b1646a2db4c78caad91984b579a0179e79f06b1039c25f78a2c1dfb298cb2"
+    },
+    {
+      "removedFilename": "0281_kirlia_event_fall_2020_noevolve_2.png",
+      "oldFilename": "281_f295_c16.png",
+      "keptFilename": "0281_kirlia_event_fall_2020_noevolve.png",
+      "identicalBytes": true,
+      "removedSha256": "b2d8dace3207d2ac54bf27787eb1f7c34a504d30638276fe6f668c2082261d5c",
+      "keptSha256": "b2d8dace3207d2ac54bf27787eb1f7c34a504d30638276fe6f668c2082261d5c"
+    },
+    {
+      "removedFilename": "0282_gardevoir_shadow_2.png",
+      "oldFilename": "282_f299.png",
+      "keptFilename": "0282_gardevoir_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "1215070687264d0251118cd75393e221179b97346d9062c16b04622b0e8f2282",
+      "keptSha256": "14169ad208046aecb013d72b7a1dd39ff8272ac25bc644560e4b4a8fc60d19bf"
+    },
+    {
+      "removedFilename": "0282_gardevoir_purified_2.png",
+      "oldFilename": "282_f300.png",
+      "keptFilename": "0282_gardevoir_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "1f49504c65215eb9c2241d9d499647d1c8263b1f98374ccc5da7326e6e87f22f",
+      "keptSha256": "a679769295844ea5b65ecc5cdc98e6435d6b155ae114ad891b47d102f673bdff"
+    },
+    {
+      "removedFilename": "0296_makuhita_shadow_2.png",
+      "oldFilename": "296_f1452.png",
+      "keptFilename": "0296_makuhita_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "12bb9220d896d49dcc64f2705e3f65fab2652d61ea421fc463bbd8b2a2e1e8ff",
+      "keptSha256": "862682a1f2b4c47f2f767f911e9a5b1dc6e5b9f1aa15b3a559143d048d9a63e6"
+    },
+    {
+      "removedFilename": "0299_nosepass_shadow_2.png",
+      "oldFilename": "299_f1461.png",
+      "keptFilename": "0299_nosepass_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "87526fc1db00fdc7976273cdffea5076a7d08caa92d00952ee22eec8db5872fd",
+      "keptSha256": "e9dc301fadf971baf2c1dd30ae51f8f89c9c7e4d2f84bb177631e2c0979280ed"
+    },
+    {
+      "removedFilename": "0302_sableye_shadow_2.png",
+      "oldFilename": "302_f924.png",
+      "keptFilename": "0302_sableye_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "aa8ce8b2f61ea7bc18b5d85d28880718a1fda7e4606d5a6e68969844eef0aba9",
+      "keptSha256": "47b8d1b866921cf41e9119453f5643335f0bf4ca49d29f047468e3d4e02ed537"
+    },
+    {
+      "removedFilename": "0302_sableye_purified_2.png",
+      "oldFilename": "302_f925.png",
+      "keptFilename": "0302_sableye_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "7ea1915dba71c7df9387299e6cdec4f912778cfe182375d5e058766416295ae1",
+      "keptSha256": "e553263a036dcaaf09fb9af5b4cd069a4b117b049c692bb50b708f9360b31bee"
+    },
+    {
+      "removedFilename": "0303_mawile_shadow_2.png",
+      "oldFilename": "303_f834.png",
+      "keptFilename": "0303_mawile_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "bcc7da3664f94f0bc1c8c74704b2a0126f6be6082f1e5647944effe3b6de8bac",
+      "keptSha256": "e85b6e8c1faf001cd897a2cdd8d2ba3d082215c1ce8cecefe6a0f494acf598b6"
+    },
+    {
+      "removedFilename": "0303_mawile_purified_2.png",
+      "oldFilename": "303_f835.png",
+      "keptFilename": "0303_mawile_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "c03e8a3fecaffaac92b07a03cb32fb9636cccf5c1c9e47fe2fd827dbcb1a68e5",
+      "keptSha256": "1c771ea0c65bef7ca38a01fac953b66d14239d043b0f45764b870b0626421c11"
+    },
+    {
+      "removedFilename": "0304_aron_shadow_2.png",
+      "oldFilename": "304_f1470.png",
+      "keptFilename": "0304_aron_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "d8b9f7169181ecbd44c090e6ff466d75aa4c90caa385b5ed61072b35f403b74a",
+      "keptSha256": "15fe9d9b0890879c8613a0e44e8060b4eb3080897c5e45caedc4df0af7037f8a"
+    },
+    {
+      "removedFilename": "0305_lairon_shadow_2.png",
+      "oldFilename": "305_f1473.png",
+      "keptFilename": "0305_lairon_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "9d5df2b3839ebd2d9d9287346d71984f81e70f60ced5d10ad62e8768f61c29e5",
+      "keptSha256": "7b59425ea14ac954d4018793039892dc638d784666f22a7fa329efabcacaba91"
+    },
+    {
+      "removedFilename": "0309_electrike_shadow_2.png",
+      "oldFilename": "309_f1485.png",
+      "keptFilename": "0309_electrike_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "407041bd62605858e12d8a8ab639b01794b831296f3bbdf29747e347d2799c21",
+      "keptSha256": "7e660e850e8c135a0bc76ffab9a8b19a9e52c1a1356cf1826f251ecbfe3f0de1"
+    },
+    {
+      "removedFilename": "0318_carvanha_shadow_2.png",
+      "oldFilename": "318_f735.png",
+      "keptFilename": "0318_carvanha_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "dc176cc14d68943230f938744b84ba3e7840010d351e95bbb60e2c0837bd75ec",
+      "keptSha256": "68dde9fa14042dcff5944fcb7a808a460753e9494232c3570f47e5aafd6cade3"
+    },
+    {
+      "removedFilename": "0318_carvanha_purified_2.png",
+      "oldFilename": "318_f736.png",
+      "keptFilename": "0318_carvanha_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "e898d3d7766281d80f491f537e91e1c149c47c5bb15839070247336e40ac5eff",
+      "keptSha256": "614e4b712a601b8b95b933c0d8f9fe145b2a9175dd68da247dea8b6a5cdd8ae2"
+    },
+    {
+      "removedFilename": "0319_sharpedo_shadow_2.png",
+      "oldFilename": "319_f738.png",
+      "keptFilename": "0319_sharpedo_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "69a066470ea4f4a102ec1f10b2d52a725e5732e22a3084210fcb7efdc0e3d5bc",
+      "keptSha256": "17f727003b60260ae1afbe42f83a9213873c946e37484e9a1be47c13033aa7af"
+    },
+    {
+      "removedFilename": "0319_sharpedo_purified_2.png",
+      "oldFilename": "319_f739.png",
+      "keptFilename": "0319_sharpedo_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "9f61c9762a70c9bf6db8b800b1a2a88fb11c342d767388ad32c71dcea6e853a8",
+      "keptSha256": "1d652941adbe4a1b79ecab73a0eb01f934c7775a4fc888864bc9a39b258a94b8"
+    },
+    {
+      "removedFilename": "0328_trapinch_shadow_2.png",
+      "oldFilename": "328_f747.png",
+      "keptFilename": "0328_trapinch_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5ce1dd25cbb2194f9bbb41694bad423200de9768b48eecd6c60001e59cc009b3",
+      "keptSha256": "8e19ebf6bc3fb6cc68ad2902f1fb86859490bf06605a16f0d53a856f796ac78e"
+    },
+    {
+      "removedFilename": "0328_trapinch_purified_2.png",
+      "oldFilename": "328_f748.png",
+      "keptFilename": "0328_trapinch_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ae0902e0813025bbdfda0e984d09e9ab94612d7c133f90d59a95ff5562541396",
+      "keptSha256": "c66f19fac63c0ee90a99ea0f42393629a0e124e3028109f0c91ed852e65199b8"
+    },
+    {
+      "removedFilename": "0329_vibrava_shadow_2.png",
+      "oldFilename": "329_f750.png",
+      "keptFilename": "0329_vibrava_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "c5cce1d9e9cb291dc18aefd92593de580d5378f0297bc63f0eb0521aad2c773d",
+      "keptSha256": "41ba0ea0fa43f0ad9a49af70bd822cbb8631f885d14f74befc6a747dde4ad8c5"
+    },
+    {
+      "removedFilename": "0329_vibrava_purified_2.png",
+      "oldFilename": "329_f751.png",
+      "keptFilename": "0329_vibrava_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "e667077d1f850d35268bc94042412831e59f653282c3eb2c657f22820f2b3982",
+      "keptSha256": "5150de4d5c4a86ac2354af4795f4f15585777051d113cee40459e6a0eb668c2d"
+    },
+    {
+      "removedFilename": "0330_flygon_shadow_2.png",
+      "oldFilename": "330_f753.png",
+      "keptFilename": "0330_flygon_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "7edce3efa0e95017011a2ae87375e4995ac5c3b22b72ba9fb95ca36be1379554",
+      "keptSha256": "15f34374de7388df6155ff3eb592ca38eb929c2af2cb1b4c373dd1b5b0f187f6"
+    },
+    {
+      "removedFilename": "0330_flygon_purified_2.png",
+      "oldFilename": "330_f754.png",
+      "keptFilename": "0330_flygon_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "b5d2774c76f9eb293d49d3e4cb3550d4de588ecc9a16b2ca8fe6c20278a362f2",
+      "keptSha256": "ab426eb5c04b3fde04bdcf7b9324e931ef091c24388f13e61e6991c5a817530e"
+    },
+    {
+      "removedFilename": "0331_cacnea_shadow_2.png",
+      "oldFilename": "331_f611.png",
+      "keptFilename": "0331_cacnea_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "a4f0879eeccae1664a5b0facd214f6dde9431936f6899db89547db2194f4b367",
+      "keptSha256": "122814c152a82d9bc747d5e86acfa3497fedc726cb03637c3720fb5dd0ac6d43"
+    },
+    {
+      "removedFilename": "0331_cacnea_purified_2.png",
+      "oldFilename": "331_f612.png",
+      "keptFilename": "0331_cacnea_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "e790e658e06d8a31a0f3d24bdf6b37d0aac25ac16a55b05ce8b40ce3a110a882",
+      "keptSha256": "3cda2f4fc7420efd83434734d892a590a6609b32361c8a4c98fb13f74fe9a2d5"
+    },
+    {
+      "removedFilename": "0332_cacturne_shadow_2.png",
+      "oldFilename": "332_f614.png",
+      "keptFilename": "0332_cacturne_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "9a5505777fd8a2ef1f6605a55adfa496e2d1642f2117110a30d3014e9176a8dc",
+      "keptSha256": "b5d0b20905e09bb82f4f2844b1da1e9ae364a68050d96508ff4f7ab5ee488303"
+    },
+    {
+      "removedFilename": "0332_cacturne_purified_2.png",
+      "oldFilename": "332_f615.png",
+      "keptFilename": "0332_cacturne_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "87e3c7ac30c52d4c787a6323bbcd8922ac4b3b944be3356c473ba66b30c1c762",
+      "keptSha256": "cb2dec09678c92b283d166136b25bc6b234fb7fb7792b1893da36eec15cb872d"
+    },
+    {
+      "removedFilename": "0347_anorith_shadow_2.png",
+      "oldFilename": "347_f1575.png",
+      "keptFilename": "0347_anorith_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "0978128cbfc199a487c7b7338706ce738a99a0331f93b05c8dd846ab73011f67",
+      "keptSha256": "1adaa06df724c51f47a7ee24857548ed211284d9b95d8a5874c5969b572d689b"
+    },
+    {
+      "removedFilename": "0353_shuppet_shadow_2.png",
+      "oldFilename": "353_f909.png",
+      "keptFilename": "0353_shuppet_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "1aecc8b26b1e4f15c4ed487bf6b801eb5466a9f14bd53e671eb26576806472d5",
+      "keptSha256": "f82d04c8a514d6226d1050e103550cbfe887e9f3262499461328bc3380dd8b74"
+    },
+    {
+      "removedFilename": "0353_shuppet_purified_2.png",
+      "oldFilename": "353_f910.png",
+      "keptFilename": "0353_shuppet_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "da4c8878d876f5e970d7518da5b449db3806b8ad036a080e6e1ec7a82287e391",
+      "keptSha256": "801234cc8e057ab9f5a129aab9bc6aab8a8329a2597a88fbaf5043e1a27003c8"
+    },
+    {
+      "removedFilename": "0354_banette_shadow_2.png",
+      "oldFilename": "354_f912.png",
+      "keptFilename": "0354_banette_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "30cc02649152c349a8c9cd71f892d8a84022c269ef1c3bd0c58e7d0a01aecd6f",
+      "keptSha256": "74f60778702289a9a089888832c93b254ef3f7232c92747c4be8df0845b86384"
+    },
+    {
+      "removedFilename": "0354_banette_purified_2.png",
+      "oldFilename": "354_f913.png",
+      "keptFilename": "0354_banette_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ae96d23e7b80120917ff2e2fbe8c08d14dc45137943af8d3a54c72a183324185",
+      "keptSha256": "875ce96174a5f513fbbe0b5a291c091aac7231521d2458f0c30f1fe2383cf1de"
+    },
+    {
+      "removedFilename": "0355_duskull_shadow_2.png",
+      "oldFilename": "355_f915.png",
+      "keptFilename": "0355_duskull_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "67b361efc8c450b40994e482740829a845a379b1a842af879456a1b60fe69cde",
+      "keptSha256": "523fdd787251d0b2fe57ab18912815017ecbf9e807809c9b241301bcbcdade3f"
+    },
+    {
+      "removedFilename": "0355_duskull_purified_2.png",
+      "oldFilename": "355_f916.png",
+      "keptFilename": "0355_duskull_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "2b6345f37e650abff3a65bdbc63fbc1cca5d03560e2a9c8fa0ac5760bb2caed5",
+      "keptSha256": "d930387a4546cd3ebbb3956a380b1fd9ad6ce38afb1c74b7b91eba1b17fbf8a0"
+    },
+    {
+      "removedFilename": "0356_dusclops_shadow_2.png",
+      "oldFilename": "356_f918.png",
+      "keptFilename": "0356_dusclops_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "44f2752b384eb66b2c2c6328fce665dbad53a4b01991447f131e2687a31d65a1",
+      "keptSha256": "bf33919e2e97f8776d0ff23123f2070b0897677ba3e899c86b0248b9a801b26e"
+    },
+    {
+      "removedFilename": "0356_dusclops_purified_2.png",
+      "oldFilename": "356_f919.png",
+      "keptFilename": "0356_dusclops_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "d0326d9a9a96bb16bdfffb9d419ccc9749bf6a913df90a67660c93d7732ceabe",
+      "keptSha256": "bf0bebed10558dd8b752238e6b1c268a0b6928de88ebb3fde6bb2914d9f6c6b4"
+    },
+    {
+      "removedFilename": "0359_absol_shadow_2.png",
+      "oldFilename": "359_f831.png",
+      "keptFilename": "0359_absol_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "6617eb34afc7d8545f9675b6cb987450f1d5b87434a9cb6b499c1246addd00c8",
+      "keptSha256": "41ed6c0ec0d74cc1ebc19d78bff21c2e5d818b4b81c1cd3862161abdbf2c30ee"
+    },
+    {
+      "removedFilename": "0359_absol_purified_2.png",
+      "oldFilename": "359_f832.png",
+      "keptFilename": "0359_absol_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "d1af45ecb133c9572cfe9eb3c705c03b91b528f19b56dcb102599244b7963f6e",
+      "keptSha256": "4f0e7b983265ac99eb52839f6123ee9ebe1b9b6e9e42aac7d11ddd9a214c3804"
+    },
+    {
+      "removedFilename": "0361_snorunt_shadow_2.png",
+      "oldFilename": "361_f927.png",
+      "keptFilename": "0361_snorunt_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "70a03c9d0c671db3b04afa4b0f4ab2fb5d1fd2b3b92c039bff87c7a7a21fee8c",
+      "keptSha256": "c67dd9d77f08b9f5a52a1c6b3311a0cee65f333836092dd48fecc9ef8e5e30d0"
+    },
+    {
+      "removedFilename": "0361_snorunt_purified_2.png",
+      "oldFilename": "361_f928.png",
+      "keptFilename": "0361_snorunt_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f348a912bc5d86fdd915323e46244ee48ae86565aa91ca4dc16490c0a3ded9a9",
+      "keptSha256": "77bf10248c78fa3d91f3b1a082358032508317cc6cdfc3d059537110a74da837"
+    },
+    {
+      "removedFilename": "0362_glalie_shadow_2.png",
+      "oldFilename": "362_f930.png",
+      "keptFilename": "0362_glalie_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "accd7f0d2b44a1fea3f8ba54876cf4cbe6a59ab1e9e178eb23d6b0876b2b1e19",
+      "keptSha256": "d36fb8f169daed3ccf5a490c4647b0eb3aeadf9f342a559f73a3099ac3cf81dc"
+    },
+    {
+      "removedFilename": "0362_glalie_purified_2.png",
+      "oldFilename": "362_f931.png",
+      "keptFilename": "0362_glalie_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "3d56cddcbbc7eb6c8c96142ae5b7479db2448fa948f3aa1580a7c59f49baac22",
+      "keptSha256": "b4b069874b84ab5dff5836a90ae1e821b94131d7ad781ea36f9ada85a45e8683"
+    },
+    {
+      "removedFilename": "0363_spheal_shadow_2.png",
+      "oldFilename": "363_f1599.png",
+      "keptFilename": "0363_spheal_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "810c4d898344ec24e0e8e503a9077eb65193b939fb0ff92749dd045d33d0f996",
+      "keptSha256": "b7b0d94793160ddabca5dffa36aded4cc44f3ce86cc5ab17da06b98eaa1294c8"
+    },
+    {
+      "removedFilename": "0364_sealeo_shadow_2.png",
+      "oldFilename": "364_f1602.png",
+      "keptFilename": "0364_sealeo_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "38f4e8261d3d7c30a037d22c6bcb24ff7ebafe89242d64630d9818fbe73a8a67",
+      "keptSha256": "536ca770ca6bd52ca27c56fb4dc91eaca1b87e379057452921794468e60759f8"
+    },
+    {
+      "removedFilename": "0371_bagon_shadow_2.png",
+      "oldFilename": "371_f756.png",
+      "keptFilename": "0371_bagon_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "1edf96e5ef71c59f1b684e227c952cbc3ea3fee52813a456f23f08d48a83b88d",
+      "keptSha256": "5f8faa54523e4fedc072eed5b73f79ab462f3f1a64bf94d9b7da8b4355f6e4d6"
+    },
+    {
+      "removedFilename": "0371_bagon_purified_2.png",
+      "oldFilename": "371_f757.png",
+      "keptFilename": "0371_bagon_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "15bda7dd680f6f78ed53dbbd45e2afe31666bdd2a39738a2d34e5ba4d40da02e",
+      "keptSha256": "f72a3ac83b60a90b22459e7e9f5f2e317b22d6b86975b89d2dacb247e7272156"
+    },
+    {
+      "removedFilename": "0372_shelgon_shadow_2.png",
+      "oldFilename": "372_f759.png",
+      "keptFilename": "0372_shelgon_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "593fcb5ad8bb60a3d9f48ef02f2391fe71715d24ca6ef08361b0b7ece51661a6",
+      "keptSha256": "821f514010a4d5142dbebb2e8f7af4879d9c7023b4420c4508a77a0bdae7dab1"
+    },
+    {
+      "removedFilename": "0372_shelgon_purified_2.png",
+      "oldFilename": "372_f760.png",
+      "keptFilename": "0372_shelgon_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "0b5ac88436563e70fed73cdcce6b034b97668def2d0d7f5d83a676adfff29028",
+      "keptSha256": "a4673b447fbc81adaa0261f218656f8f0a84042dec29121442f1c06afc807406"
+    },
+    {
+      "removedFilename": "0373_salamence_shadow_2.png",
+      "oldFilename": "373_f762.png",
+      "keptFilename": "0373_salamence_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "102639cb65ea087b3e1f00b30db3d4b513588b7f7379a9f51a4a6f981bbc2f3b",
+      "keptSha256": "d7ccc3bd7bcd927baa7862b8334af72345ee2fb393d281b22e01df6cfdd23db4"
+    },
+    {
+      "removedFilename": "0373_salamence_purified_2.png",
+      "oldFilename": "373_f763.png",
+      "keptFilename": "0373_salamence_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f3c6709adaaa6340aa1c3da99f84308f33c059a4fd50e7d3e567336655951537",
+      "keptSha256": "8df773fa47dd9295afc20b66285f0fac0a0418acfa9de383c921b358fb6a2de9"
+    },
+    {
+      "removedFilename": "0374_beldum_shadow_2.png",
+      "oldFilename": "374_f765.png",
+      "keptFilename": "0374_beldum_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "eccc0a20c022b8e9fc3fdd768f4f87c76d454d0f2681b52db14525048563a4b6",
+      "keptSha256": "0dd7ef6af700db796a25cb2fb9874c7d869967c86a375ff83cb85b16bdc16346"
+    },
+    {
+      "removedFilename": "0374_beldum_purified_2.png",
+      "oldFilename": "374_f766.png",
+      "keptFilename": "0374_beldum_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "8b11b51e4ca1f9e9263a69201ecfdfb923ec2eae86496332bc7ce37b4dd51d99",
+      "keptSha256": "b140c818ef9e909ee07a87bd712206558074f3bd58211ca478c147219f011aaf"
+    },
+    {
+      "removedFilename": "0375_metang_shadow_2.png",
+      "oldFilename": "375_f768.png",
+      "keptFilename": "0375_metang_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "7494f781d2fbfbba1cfef36a9099a3a7198eaa2cbe75584aa86d9c43d7a61374",
+      "keptSha256": "5d00c1a41956c8b20b3ab21b90d4a6457096220c7b679a499a8df8e6a2d0d437"
+    },
+    {
+      "removedFilename": "0375_metang_purified_2.png",
+      "oldFilename": "375_f769.png",
+      "keptFilename": "0375_metang_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f2e2414916eecdb44c5ce3b588d09d3a7e18c30a244e85af798aaeae8551b6d5",
+      "keptSha256": "99247f03bfa1ec491d89497d3e872cc4b7c2d93eec61cc0f9c2b90ef59dbd1b7"
+    },
+    {
+      "removedFilename": "0376_metagross_shadow_2.png",
+      "oldFilename": "376_f771.png",
+      "keptFilename": "0376_metagross_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "96409d943c66db3e3c9efdd82f58ab0afb8b78a18c7672130fe6b6cd2ed6ea51",
+      "keptSha256": "b3f272d635f0a1d09288b51d85699de2471fef2bc3fdea09fefa08313f09bd3a"
+    },
+    {
+      "removedFilename": "0376_metagross_purified_2.png",
+      "oldFilename": "376_f772.png",
+      "keptFilename": "0376_metagross_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "a86fd51395df12df2d937fd7845d89d321495cd5f4f2f80234f318cd71800d85",
+      "keptSha256": "bf4b5055711ad520f6d34913d37cdc99fcca5c2e7c841f75fa72bb9ced7dd787"
+    },
+    {
+      "removedFilename": "0387_turtwig_shadow_2.png",
+      "oldFilename": "387_f689.png",
+      "keptFilename": "0387_turtwig_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "615450e9060fd9d9c04d1eb1f40283ceba3758eb9a427d680b53f3aa41a70ca2",
+      "keptSha256": "58f177c5cdbec30acc62ffcd6c8ea6ca9b76f2ed3215bef05bf855a8414041fe"
+    },
+    {
+      "removedFilename": "0387_turtwig_purified_2.png",
+      "oldFilename": "387_f690.png",
+      "keptFilename": "0387_turtwig_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "fdfcb196936783863bb6b82dedb695419c84eb49bc5250c9d0984f3f653ee729",
+      "keptSha256": "a043b3ff3eb697b6b4658655e3abccaf42ab739f416a60c378bd2b8805d7d4f5"
+    },
+    {
+      "removedFilename": "0388_grotle_shadow_2.png",
+      "oldFilename": "388_f692.png",
+      "keptFilename": "0388_grotle_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "bcd9ed1f82dd5f9ae44a6c23a6ee03c09e9de724c0cde0df69719b9cfe80d1f7",
+      "keptSha256": "cd3db9a9308c02a8a30576391b09374632f0d87fb6595bbaf748b13b2206c915"
+    },
+    {
+      "removedFilename": "0388_grotle_purified_2.png",
+      "oldFilename": "388_f693.png",
+      "keptFilename": "0388_grotle_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "901d2bd812ee0e59bd391daaf238b1262f996aabcdfb1280c9d3f31155f32a97",
+      "keptSha256": "17b862af2cb2471b61011d08bb077c25a9aedac8b0e21d5ada9b1e56583a982e"
+    },
+    {
+      "removedFilename": "0389_torterra_shadow_2.png",
+      "oldFilename": "389_f695.png",
+      "keptFilename": "0389_torterra_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "45fb57d54fea45288979c26037aaa1c122e20a242fa65e3e39816d62e3d942be",
+      "keptSha256": "a997a3670725645589f8c0ee8193a43f96c51c1227c4f4231e9df3363252baf6"
+    },
+    {
+      "removedFilename": "0389_torterra_purified_2.png",
+      "oldFilename": "389_f696.png",
+      "keptFilename": "0389_torterra_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "4b81f7523ca6e833f2f537ba842597580e0807b7ea032b5a5478de7d884db1f1",
+      "keptSha256": "cf68d41e5224f71ce46892f6a7bce3f41b1af07f4f4c9c6f745462519ff95b41"
+    },
+    {
+      "removedFilename": "0390_chimchar_shadow_2.png",
+      "oldFilename": "390_f819.png",
+      "keptFilename": "0390_chimchar_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "b7d9a9e6ab0109403a6a5aa9c65d6b8bd4d53407228dbb4971fb67370b3386a5",
+      "keptSha256": "78d7a1701f0debe6d7776ad83c5f4e8c276eff3a9fb9670bb53564d91bbf17d0"
+    },
+    {
+      "removedFilename": "0390_chimchar_purified_2.png",
+      "oldFilename": "390_f820.png",
+      "keptFilename": "0390_chimchar_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "7fb80e31452f1cd4cafe41d21918e045c2cd9c27db6d2ca8e653cbd678aec23a",
+      "keptSha256": "874056119c4d3cde8728d31430f1f21f9823027e9adf2d058fba0162ed6f2c93"
+    },
+    {
+      "removedFilename": "0391_monferno_shadow_2.png",
+      "oldFilename": "391_f822.png",
+      "keptFilename": "0391_monferno_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "3e46da7703ae5c81ef0fee98c6350c14483af208239e03b366b8ae1cd3e2af62",
+      "keptSha256": "a1da50ef6d4475045256507897f54424c13a45c61919a1b028cf3642b743fd8e"
+    },
+    {
+      "removedFilename": "0391_monferno_purified_2.png",
+      "oldFilename": "391_f823.png",
+      "keptFilename": "0391_monferno_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "fa2b4eaef52bb895b47bdbb8622a391cb8e5ec091f0554a82e40b0d15f88b224",
+      "keptSha256": "edcb04def515ed6d381c507fbd699edfb4f0d9ddb1ce203a55f38eaab66fcdac"
+    },
+    {
+      "removedFilename": "0392_infernape_shadow_2.png",
+      "oldFilename": "392_f825.png",
+      "keptFilename": "0392_infernape_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "82945941e8b248b1c93f63f019a459b37d26622b2ad3c9e742112480594994aa",
+      "keptSha256": "ac5c77d9654bbe222565c60e264df91b7a0533efb52f38c761a0338305d16442"
+    },
+    {
+      "removedFilename": "0392_infernape_purified_2.png",
+      "oldFilename": "392_f826.png",
+      "keptFilename": "0392_infernape_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "839ce742c54de8a699266b3069df148a443a6fa5acddbae221b38deec0b69876",
+      "keptSha256": "65752414ecd13b6268086188268f0f1d3274a5cd309ca87940e3ef62523cc83e"
+    },
+    {
+      "removedFilename": "0396_starly_shadow_2.png",
+      "oldFilename": "396_f1659.png",
+      "keptFilename": "0396_starly_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "501624dc7c90f2dc8dde345347913deca3bfb212fb6cd5a3b07c3f39bbc26220",
+      "keptSha256": "7240f4ea3a34bdf43ba503b831852d3fbbc90d2516ebbbdd91ec26f750299903"
+    },
+    {
+      "removedFilename": "0403_shinx_event_fall_2020_noevolve_2.png",
+      "oldFilename": "403_f1679_c16.png",
+      "keptFilename": "0403_shinx_event_fall_2020_noevolve.png",
+      "identicalBytes": true,
+      "removedSha256": "028ae4735580b01e3eadc20e26756e36284fcd4fae233cb70382245feab7bac8",
+      "keptSha256": "028ae4735580b01e3eadc20e26756e36284fcd4fae233cb70382245feab7bac8"
+    },
+    {
+      "removedFilename": "0429_mismagius_shadow_2.png",
+      "oldFilename": "429_f723.png",
+      "keptFilename": "0429_mismagius_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "ad04c2c66bde3a5251cb2034100a7c45ccc8a06e06b8c4cfdc601d54cc5effa4",
+      "keptSha256": "e2a007105121da90a490d79df9773d5282121d63ffd76b3f2de614c3b9bd13aa"
+    },
+    {
+      "removedFilename": "0429_mismagius_purified_2.png",
+      "oldFilename": "429_f724.png",
+      "keptFilename": "0429_mismagius_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ba46309789edc242e1186f0fc34e3a32f86c635b51a857eff59f27a76ad9a2a0",
+      "keptSha256": "ee4249a75cff17e805d4457262c8f50e56ce73f022c5e7a3ce1210471aa765e5"
+    },
+    {
+      "removedFilename": "0430_honchkrow_shadow_2.png",
+      "oldFilename": "430_f859.png",
+      "keptFilename": "0430_honchkrow_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "c94cfa6c5bcd4c3bd6f973286b1b26da225148ca441e18eee3d73efb9bfb5fe0",
+      "keptSha256": "1aebf46c1e66eb282565abb60a1c241c8527c63beedefa46f9895967b2040383"
+    },
+    {
+      "removedFilename": "0430_honchkrow_purified_2.png",
+      "oldFilename": "430_f860.png",
+      "keptFilename": "0430_honchkrow_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "a203a41bcabd016f060792bcb40a25a066b556cbfdb4930cb45db9d20a90a7a3",
+      "keptSha256": "570e14c51ae9266d9540cadc3ceacbe0ba530202bb5f02f1224baeac67eb1b7a"
+    },
+    {
+      "removedFilename": "0434_stunky_shadow_2.png",
+      "oldFilename": "434_f792.png",
+      "keptFilename": "0434_stunky_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "ee65c1a2b58dbad8d1c336a7f54f9d053747bb08ce1ad3890a17da17b3d34915",
+      "keptSha256": "815c984c0a3db70bf8d5fc0c87b4c3dff1caf97a24ee2bdfd331b9f34b520c58"
+    },
+    {
+      "removedFilename": "0434_stunky_purified_2.png",
+      "oldFilename": "434_f793.png",
+      "keptFilename": "0434_stunky_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ff1b2f99e81949501502b59107cf2e3c8976c20615762bea2643bc96648786dd",
+      "keptSha256": "8866129efdd3ecce829abfdea58cc8f06f496b28c8d7680c34af2e08ec282c95"
+    },
+    {
+      "removedFilename": "0435_skuntank_shadow_2.png",
+      "oldFilename": "435_f795.png",
+      "keptFilename": "0435_skuntank_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "6eb05fb460b1f43f6bd480f3ac081d00a436dc8bbcb660876fcb16e16a96c8b8",
+      "keptSha256": "116ba08f7f3a766154773dd06961891c567b155917e2bdc687c63e1524eeb47d"
+    },
+    {
+      "removedFilename": "0435_skuntank_purified_2.png",
+      "oldFilename": "435_f796.png",
+      "keptFilename": "0435_skuntank_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "53376e216eb5039296a17f83729708472173e34d66a7a069c5a27933bf281d41",
+      "keptSha256": "681ad8eabef14c0ee1b9c63d62ec3ff3e0c857dbed598f1f3335b4c06d70e89b"
+    },
+    {
+      "removedFilename": "0440_happiny_event_november_2018_2.png",
+      "oldFilename": "440_f1778_c7.png",
+      "keptFilename": "0440_happiny_event_november_2018.png",
+      "identicalBytes": true,
+      "removedSha256": "cdf04c5ae6af620fe147b6fb5d891c316065330c84004c088d6067b6c25161af",
+      "keptSha256": "cdf04c5ae6af620fe147b6fb5d891c316065330c84004c088d6067b6c25161af"
+    },
+    {
+      "removedFilename": "0443_gible_shadow_2.png",
+      "oldFilename": "443_f862.png",
+      "keptFilename": "0443_gible_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "88519c64266a23c068746aa3bbfd8792d6a29aa283787d884394d9fee42485a3",
+      "keptSha256": "c5107211b9b891ccae3ffcb3204adfdcc6c6e27f5e6226c86795afad8d835610"
+    },
+    {
+      "removedFilename": "0443_gible_purified_2.png",
+      "oldFilename": "443_f863.png",
+      "keptFilename": "0443_gible_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "a29c54c8a1278f3e353ce5ee35abdb9678303a91c53f450615c85c49bd1ff07a",
+      "keptSha256": "969df0eb820023810255e72159ab61f8c78f6e17923bd7dcd0f68b54f1fef57a"
+    },
+    {
+      "removedFilename": "0444_gabite_shadow_2.png",
+      "oldFilename": "444_f865.png",
+      "keptFilename": "0444_gabite_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "f2282d0581e60bbb87b7373ff6b6b39b424ad1eb93327f4ebe370df03c675196",
+      "keptSha256": "a944b2c8647f976c277b3c5e4c2de1895f1ae7d13205b39a229d76969a7dc768"
+    },
+    {
+      "removedFilename": "0444_gabite_purified_2.png",
+      "oldFilename": "444_f866.png",
+      "keptFilename": "0444_gabite_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "9ec219aca4ce6e441e17d10fe26bc8a41a4455cdf694548e55389dbab3f41149",
+      "keptSha256": "55ca0159b2bed817c091d8cc2c1b74c555b212636fd1b986cd646c6dff41c700"
+    },
+    {
+      "removedFilename": "0445_garchomp_shadow_2.png",
+      "oldFilename": "445_f868.png",
+      "keptFilename": "0445_garchomp_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "46faeaa0d5992965ba1bfebda67e4efcf8e4c3061959ee265a24170a38cc8bf3",
+      "keptSha256": "41b7c0d09a5e41a609e43de8d4a391ed881479fd560df8a9b5bfe5635082372c"
+    },
+    {
+      "removedFilename": "0445_garchomp_purified_2.png",
+      "oldFilename": "445_f869.png",
+      "keptFilename": "0445_garchomp_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "376c5c30e7234628917a259704883df3f2f0c220ac350b9e5a4cd110a01c1449",
+      "keptSha256": "48162fb3b2f07099169bb4fc35af62e6f3f1a0b8abbc31fe1fd273e68eeb8043"
+    },
+    {
+      "removedFilename": "0449_hippopotas_shadow_2.png",
+      "oldFilename": "449_f889.png",
+      "keptFilename": "0449_hippopotas_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "9215a8d4a800908b4f0ee99e4a31b34a9f16b903ededf97adae953e4d214f8e0",
+      "keptSha256": "94f804bc626c24d3c85d3c61dcd2fa0884432fd008bd2a4f0d18e4dd2a6d209b"
+    },
+    {
+      "removedFilename": "0449_hippopotas_purified_2.png",
+      "oldFilename": "449_f890.png",
+      "keptFilename": "0449_hippopotas_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "9c77197046252ba9cee5eab1a90cf16e136ccf490af2ad1c113a7b0a544794cf",
+      "keptSha256": "2ab34ed3604b3d000324d44003427ff5405e9d25c00f0507b9b225eebdce74cc"
+    },
+    {
+      "removedFilename": "0450_hippowdon_shadow_2.png",
+      "oldFilename": "450_f892.png",
+      "keptFilename": "0450_hippowdon_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "56c9b2f9e5ce3a6aa40704e48292627976fee12cc1d1c03357930f0e1688af70",
+      "keptSha256": "a36b646769402daf8943f72aad96204a39c25efffeeef152e6bc78f7d224bf58"
+    },
+    {
+      "removedFilename": "0450_hippowdon_purified_2.png",
+      "oldFilename": "450_f893.png",
+      "keptFilename": "0450_hippowdon_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "5bfbeca12ffe60153a693ff2f00f39107fa7c0a2c10d2eefdb7a8e23280d918d",
+      "keptSha256": "bf6c74ed3a22f5b6653de21120bb0e176797f26fae203de4e96f5e195440e540"
+    },
+    {
+      "removedFilename": "0451_skorupi_shadow_2.png",
+      "oldFilename": "451_f1797.png",
+      "keptFilename": "0451_skorupi_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5adcb050656028c1aeddacf0d8478a894b14a8fd9443c16b90ce5a02b9af0032",
+      "keptSha256": "5b84a39c59bd02d4b919b132d1f168c5203bc4663e89e00b6d038df73bdd7048"
+    },
+    {
+      "removedFilename": "0453_croagunk_event_fall_2020_noevolve_2.png",
+      "oldFilename": "453_f1802_c16.png",
+      "keptFilename": "0453_croagunk_event_fall_2020_noevolve.png",
+      "identicalBytes": true,
+      "removedSha256": "d0801c9ec9d54e258cf9f6719f58b9640b1b7a08b03e78e0ecbb1f7748435400",
+      "keptSha256": "d0801c9ec9d54e258cf9f6719f58b9640b1b7a08b03e78e0ecbb1f7748435400"
+    },
+    {
+      "removedFilename": "0459_snover_shadow_2.png",
+      "oldFilename": "459_f933.png",
+      "keptFilename": "0459_snover_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "d6542881459495aab5b63da0aa89ea1cb2c0bd010d2f4c7674efc879db8f700f",
+      "keptSha256": "457cb1102d373f4ff96a3b0126d4f33b0852258c28db0f97bef760c6aa7d996d"
+    },
+    {
+      "removedFilename": "0459_snover_purified_2.png",
+      "oldFilename": "459_f934.png",
+      "keptFilename": "0459_snover_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "279454b04303aa22328735cd1d624619cef4e76f2586fb0789301bb197f13df7",
+      "keptSha256": "f4a988958510dd4b0e81bd5e4a226e1c971e326ad42f2b2989f157fced1494dc"
+    },
+    {
+      "removedFilename": "0460_abomasnow_shadow_2.png",
+      "oldFilename": "460_f936.png",
+      "keptFilename": "0460_abomasnow_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "c9782eab8733df6edbdc571ff84a6f05ece0b0d19608d8680a511f3a60f6e8fc",
+      "keptSha256": "a165e01d0c3ae0b61a9c63aea080ad25b309794d85202e372b3f8c24d08034ce"
+    },
+    {
+      "removedFilename": "0460_abomasnow_purified_2.png",
+      "oldFilename": "460_f937.png",
+      "keptFilename": "0460_abomasnow_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "ef08bd9c776fcf4014ec63714f78703d8b080b8d043ab545728059729e34c4a5",
+      "keptSha256": "08b9626a64460904904fba1953d576d8b713cfabe017da403709ae09a8d3c460"
+    },
+    {
+      "removedFilename": "0461_weavile_shadow_2.png",
+      "oldFilename": "461_f801.png",
+      "keptFilename": "0461_weavile_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "00647ef35fbaeb1b6e6d2f6bbdf939ab473a038ffd17e7608906b6a0ac9f3ef1",
+      "keptSha256": "bbbf277cfa9ee41de8151511990e280c6f5b941f745175de39c0662f8bf6d8b2"
+    },
+    {
+      "removedFilename": "0461_weavile_purified_2.png",
+      "oldFilename": "461_f802.png",
+      "keptFilename": "0461_weavile_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "1a62c9318b622ece537b4a486a9a771e3ead3009fa76b67087baa6a28270d187",
+      "keptSha256": "078223b237850d8ddd02d03dac104c7f2e8d0dcfd3797e7d4d302cab3aa04fc0"
+    },
+    {
+      "removedFilename": "0462_magnezone_shadow_2.png",
+      "oldFilename": "462_f662.png",
+      "keptFilename": "0462_magnezone_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "55788cdcdfa478727d4b84824f8ce687c19467aa6a7a788d9700ca04d1e07121",
+      "keptSha256": "ad02ced31fdab811b8b6ecb7da61b3f329d9c05369c841d68ac77f33df666a20"
+    },
+    {
+      "removedFilename": "0462_magnezone_purified_2.png",
+      "oldFilename": "462_f663.png",
+      "keptFilename": "0462_magnezone_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "033906bb9be00c44ba8f91b6bc962faf9a1017d9207925574e2475007449251f",
+      "keptSha256": "b862466b92563d98eecfd4d9edd900328ad1b946c938e6e3446c6d77f9cfb501"
+    },
+    {
+      "removedFilename": "0464_rhyperior_shadow_2.png",
+      "oldFilename": "464_f853.png",
+      "keptFilename": "0464_rhyperior_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5168dc490f01e7442ff7089914b519bfeafe846377a24f2655ad16f2aafdf1d4",
+      "keptSha256": "5d85281761fbbaf5a522b3fd4aa3c96cbecf500e913201204cc8079f0e680941"
+    },
+    {
+      "removedFilename": "0464_rhyperior_purified_2.png",
+      "oldFilename": "464_f854.png",
+      "keptFilename": "0464_rhyperior_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "049bd382a6fa1091a8dd9d648f57d8cf757e85e828e3a50cc695136c6935f4c1",
+      "keptSha256": "6ed96b4ee8e6ee54262a64d769d8f719811d87df816c3840d87d976dcca9228c"
+    },
+    {
+      "removedFilename": "0466_electivire_shadow_2.png",
+      "oldFilename": "466_f644.png",
+      "keptFilename": "0466_electivire_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "df2633f93bc92d10f6eea5dbe4a7487d28baf235c7fea1fd89006242561fc6ee",
+      "keptSha256": "642c6153abad34b60df973d2ab45f89664c28c16231dfad6cb7f5964e950e9da"
+    },
+    {
+      "removedFilename": "0466_electivire_purified_2.png",
+      "oldFilename": "466_f645.png",
+      "keptFilename": "0466_electivire_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "cba8468905be173c121afbe2916e736c7c0589bb6cd24770d0425d40e09e3aff",
+      "keptSha256": "167711201611d1eefb5d2c10030d2ce983de0b4a36a4815b47b61afc8913ab04"
+    },
+    {
+      "removedFilename": "0467_magmortar_shadow_2.png",
+      "oldFilename": "467_f638.png",
+      "keptFilename": "0467_magmortar_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "ee159186cadb2fa08a1106e8e092188ba328f89bebf67a8777300cf58edbd729",
+      "keptSha256": "d026ac7c4264395b7f582d01749fdabb81662165d6e24d4c745c00d376a80790"
+    },
+    {
+      "removedFilename": "0467_magmortar_purified_2.png",
+      "oldFilename": "467_f639.png",
+      "keptFilename": "0467_magmortar_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "66aff474fddb9ad83327fbc06617c2433a98126e567a2f06820ab37fe5b09f25",
+      "keptSha256": "ac88e7976341e9889bf872c216bd1212373dfa084fe363233c6a2766ae2db637"
+    },
+    {
+      "removedFilename": "0472_gliscor_shadow_2.png",
+      "oldFilename": "472_f807.png",
+      "keptFilename": "0472_gliscor_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "bed62e5bd085bb14e57ee0f02f5c389dd8cf530aba0233b16de4444676e62bee",
+      "keptSha256": "4cfa374741ca2645890011c6c6cf5df1e6106787986b135fc5fa4dfb24a34981"
+    },
+    {
+      "removedFilename": "0472_gliscor_purified_2.png",
+      "oldFilename": "472_f808.png",
+      "keptFilename": "0472_gliscor_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "dea0e1a73b87230f8948655ddd4221263d95f0c85660c2b6fdda173234e7fc44",
+      "keptSha256": "b319ad028d0a30e28a895862270229de7fa6831df789635597247e35241ae62d"
+    },
+    {
+      "removedFilename": "0474_porygon_z_shadow_2.png",
+      "oldFilename": "474_f684.png",
+      "keptFilename": "0474_porygon_z_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "60c54d7bc39f1645ba0adbb5cc49b407f640cc0f45f43280bd03a60d2d7ac29f",
+      "keptSha256": "47a5c1cca921f00a7bb4d2679c677b55c402ae427158eb6ea58dc7719d149232"
+    },
+    {
+      "removedFilename": "0474_porygon_z_purified_2.png",
+      "oldFilename": "474_f685.png",
+      "keptFilename": "0474_porygon_z_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "1a2998ecfb9e1a0731da88ce9e3d96a0f7e319a39e5a19f78042eea8ff13d870",
+      "keptSha256": "4118ccf05044638c26f331661c50485c8ff1dbcc58f237a23d3445581e4f8f93"
+    },
+    {
+      "removedFilename": "0475_gallade_shadow_2.png",
+      "oldFilename": "475_f302.png",
+      "keptFilename": "0475_gallade_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5efab630536b70c9b6ba07490cb525c308f442dca65a0810510239f152216037",
+      "keptSha256": "1d6a4f87b6ac514679d2f1da80ccf464fa432b0b46b44a49647510b206bba785"
+    },
+    {
+      "removedFilename": "0475_gallade_purified_2.png",
+      "oldFilename": "475_f303.png",
+      "keptFilename": "0475_gallade_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "4d7506f9e142369de137365fd5e11757cdd27c5bf1d67781e6ec664c77420a17",
+      "keptSha256": "49fa7f00e158b1034924bede7cf9ec3ec79c6915fec3dd8335c3bb8114ecdfdc"
+    },
+    {
+      "removedFilename": "0477_dusknoir_shadow_2.png",
+      "oldFilename": "477_f921.png",
+      "keptFilename": "0477_dusknoir_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "11efbf2db14143921a38d2403a5c1724b2f354af49e58f559512f002114d7ddf",
+      "keptSha256": "4a17aa52eafe51c321b6b21ee0938ccc4313ab7208cce17a4dfdc1045c8f381d"
+    },
+    {
+      "removedFilename": "0477_dusknoir_purified_2.png",
+      "oldFilename": "477_f922.png",
+      "keptFilename": "0477_dusknoir_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "549728da4423b6b14ff9c76a0be8ce20fa27f2841b81569fef4d9c867c0029c2",
+      "keptSha256": "9bc50884c35fa835c347bb8d1aa55307022a28227e0fee0f4de72c7a595d28d6"
+    },
+    {
+      "removedFilename": "0592_frillish_femelle_dynamax_2.png",
+      "oldFilename": "592_b1_f2330.png",
+      "keptFilename": "0592_frillish_femelle_dynamax.png",
+      "identicalBytes": true,
+      "removedSha256": "fc4b2ff523a7fedfcea5970831283d8f758cdfd07be8feffc2b05898b2cdbe90",
+      "keptSha256": "fc4b2ff523a7fedfcea5970831283d8f758cdfd07be8feffc2b05898b2cdbe90"
+    },
+    {
+      "removedFilename": "0592_frillish_femelle_shadow_2.png",
+      "oldFilename": "592_f2330_a1.png",
+      "keptFilename": "0592_frillish_femelle_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "cf0f57134c84d4c88fba8148261aa0e2dc37b4cbf90a5299cf45783dd34c4929",
+      "keptSha256": "b699b5f09eb9b24acd90eca65e92bd6ad9df55edf16af32fb84f094d16842452"
+    },
+    {
+      "removedFilename": "0592_frillish_femelle_purified_2.png",
+      "oldFilename": "592_f2330_a2.png",
+      "keptFilename": "0592_frillish_femelle_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "590a80ffcab50b423457b7bd3b5aabe9a4417b044d9ceb629d14b2216aa8b6ae",
+      "keptSha256": "f9676149179c08d9157b4bd5306870e15cc310df728ffc37638236fbb44420bf"
+    },
+    {
+      "removedFilename": "0592_frillish_femelle_2.png",
+      "oldFilename": "592_f2330.png",
+      "keptFilename": "0592_frillish_femelle.png",
+      "identicalBytes": true,
+      "removedSha256": "28f73303c47d436a8b7c7ef293ba6251c859599866cdab2a3509a4d8d006a9ec",
+      "keptSha256": "28f73303c47d436a8b7c7ef293ba6251c859599866cdab2a3509a4d8d006a9ec"
+    },
+    {
+      "removedFilename": "0593_jellicent_femelle_dynamax_2.png",
+      "oldFilename": "593_b1_f2331.png",
+      "keptFilename": "0593_jellicent_femelle_dynamax.png",
+      "identicalBytes": true,
+      "removedSha256": "f6b7dc7cd3f10a60853465885e0f17f0f529fe0d7e0a83ef783fa204ed603255",
+      "keptSha256": "f6b7dc7cd3f10a60853465885e0f17f0f529fe0d7e0a83ef783fa204ed603255"
+    },
+    {
+      "removedFilename": "0593_jellicent_femelle_shadow_2.png",
+      "oldFilename": "593_f2331_a1.png",
+      "keptFilename": "0593_jellicent_femelle_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "73a683fc196e0834ccff2af357862092f2609b6800af6d6f7c0360cc4240f8eb",
+      "keptSha256": "4be2d61a6543cd4b1f6beb88df94b6bd1a8fecaa5196586f8bfcd2d19bee1706"
+    },
+    {
+      "removedFilename": "0593_jellicent_femelle_purified_2.png",
+      "oldFilename": "593_f2331_a2.png",
+      "keptFilename": "0593_jellicent_femelle_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "7d2b044b25173676634d2cb88b0c7510c9e7814dcc12cae5cd07441989c59ee3",
+      "keptSha256": "9a2a16c67fae9168d07709c19222561ca781812db7d3fd648d3bccffbddec413"
+    },
+    {
+      "removedFilename": "0593_jellicent_femelle_2.png",
+      "oldFilename": "593_f2331.png",
+      "keptFilename": "0593_jellicent_femelle.png",
+      "identicalBytes": true,
+      "removedSha256": "076c7d9001f01945ab75b44dcac332463e01ebc32c136c0621a802d8c3c5dc36",
+      "keptSha256": "076c7d9001f01945ab75b44dcac332463e01ebc32c136c0621a802d8c3c5dc36"
+    },
+    {
+      "removedFilename": "0649_genesect_shadow_chromatique_2.png",
+      "oldFilename": "649_f593_a1_s.png",
+      "keptFilename": "0649_genesect_shadow_chromatique.png",
+      "identicalBytes": false,
+      "removedSha256": "a2732c5dae72304be1d7febb1aca8dedf0f12019c945c554335693020404dcd9",
+      "keptSha256": "dc38adb2307fffb1241f8f86f3518cd207bbb166c7f35d92e82b0ebe4974a893"
+    },
+    {
+      "removedFilename": "0649_genesect_shadow_2.png",
+      "oldFilename": "649_f593_a1.png",
+      "keptFilename": "0649_genesect_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "a5594872ca8208b7a12924405eaa828ab277b7e1a6832efb78cd9bbfce733910",
+      "keptSha256": "8ba50c2cbc3b684336c58e6ea04ad703394d9c33202b1db968de3f320571e29e"
+    },
+    {
+      "removedFilename": "0649_genesect_purified_chromatique_2.png",
+      "oldFilename": "649_f593_a2_s.png",
+      "keptFilename": "0649_genesect_purified_chromatique.png",
+      "identicalBytes": false,
+      "removedSha256": "4d28b3b32c859c96ca22e0a57edf07a6d931840db8d3134ee63ac5cebc2d205a",
+      "keptSha256": "b6c35316da0c33fcbad25f1623f631fcdc82062de87f8b2d49ebbfed83519d96"
+    },
+    {
+      "removedFilename": "0649_genesect_purified_2.png",
+      "oldFilename": "649_f593_a2.png",
+      "keptFilename": "0649_genesect_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "f4058dc778ccc3dd2ebb37b4b8db92bed5b648c5f736bbad2f4c74881cede91b",
+      "keptSha256": "f6070a25a7fdc5dae4926fc22e5f8490ba8f74fe2084ddc673c532a00d6f6d6c"
+    },
+    {
+      "removedFilename": "0649_genesect_dynamax_2.png",
+      "oldFilename": "649_b1_f593.png",
+      "keptFilename": "0649_genesect_dynamax.png",
+      "identicalBytes": true,
+      "removedSha256": "847ab02418b6b52246119963706b62dab1e1e810bb27f7c246af12a80317e71d",
+      "keptSha256": "847ab02418b6b52246119963706b62dab1e1e810bb27f7c246af12a80317e71d"
+    },
+    {
+      "removedFilename": "0649_genesect_normal_chromatique_2.png",
+      "oldFilename": "649_f593_s.png",
+      "keptFilename": "0649_genesect_normal_chromatique.png",
+      "identicalBytes": true,
+      "removedSha256": "a1aa19f54997acd7d54f119d525db34e429bb6240bcd719ec2f398f2b09b9f75",
+      "keptSha256": "a1aa19f54997acd7d54f119d525db34e429bb6240bcd719ec2f398f2b09b9f75"
+    },
+    {
+      "removedFilename": "0649_genesect_normal_2.png",
+      "oldFilename": "649_f593.png",
+      "keptFilename": "0649_genesect_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "d44599d481b7e5f8d3a97d63751281e445825d548709f84f319478096f91843f",
+      "keptSha256": "d44599d481b7e5f8d3a97d63751281e445825d548709f84f319478096f91843f"
+    },
+    {
+      "removedFilename": "0668_pyroar_normal_chromatique_2.png",
+      "oldFilename": "668_f2587_s.png",
+      "keptFilename": "0668_pyroar_normal_chromatique.png",
+      "identicalBytes": true,
+      "removedSha256": "53ee3cb6d0ac142594466240fdb5bc0ef42697cbc07a6fa7d19e07c189d3e945",
+      "keptSha256": "53ee3cb6d0ac142594466240fdb5bc0ef42697cbc07a6fa7d19e07c189d3e945"
+    },
+    {
+      "removedFilename": "0668_pyroar_normal_2.png",
+      "oldFilename": "668_f2587.png",
+      "keptFilename": "0668_pyroar_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "6b999f6706c8f9a715a6366eea110f3591fcac61b3febb80831d4034e17627f7",
+      "keptSha256": "6b999f6706c8f9a715a6366eea110f3591fcac61b3febb80831d4034e17627f7"
+    },
+    {
+      "removedFilename": "0668_pyroar_normal_3.png",
+      "oldFilename": "668_ff2587.png",
+      "keptFilename": "0668_pyroar_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "6b999f6706c8f9a715a6366eea110f3591fcac61b3febb80831d4034e17627f7",
+      "keptSha256": "6b999f6706c8f9a715a6366eea110f3591fcac61b3febb80831d4034e17627f7"
+    },
+    {
+      "removedFilename": "0668_pyroar_femelle_chromatique_2.png",
+      "oldFilename": "668_f2588_s.png",
+      "keptFilename": "0668_pyroar_femelle_chromatique.png",
+      "identicalBytes": true,
+      "removedSha256": "28ac301b483a533f4a77695a6342977ed3e5cb6d95a52008929cf55d03823669",
+      "keptSha256": "28ac301b483a533f4a77695a6342977ed3e5cb6d95a52008929cf55d03823669"
+    },
+    {
+      "removedFilename": "0668_pyroar_femelle_2.png",
+      "oldFilename": "668_f2588.png",
+      "keptFilename": "0668_pyroar_femelle.png",
+      "identicalBytes": true,
+      "removedSha256": "42b5b67b0438a61761d806f0ec5654ed84bb03e8d40e952f2e21c3b258457482",
+      "keptSha256": "42b5b67b0438a61761d806f0ec5654ed84bb03e8d40e952f2e21c3b258457482"
+    },
+    {
+      "removedFilename": "0678_meowstic_normal_chromatique_2.png",
+      "oldFilename": "678_f2589_s.png",
+      "keptFilename": "0678_meowstic_normal_chromatique.png",
+      "identicalBytes": true,
+      "removedSha256": "38eea7598e1efebee739cc7bded5f1bf7100db1eb59bfcede7dc119ff407d3a2",
+      "keptSha256": "38eea7598e1efebee739cc7bded5f1bf7100db1eb59bfcede7dc119ff407d3a2"
+    },
+    {
+      "removedFilename": "0678_meowstic_normal_2.png",
+      "oldFilename": "678_f2589.png",
+      "keptFilename": "0678_meowstic_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "21b978f34b0be74aa4d33580b4ca09830089a27d58fbbe6fc780923133063aa0",
+      "keptSha256": "21b978f34b0be74aa4d33580b4ca09830089a27d58fbbe6fc780923133063aa0"
+    },
+    {
+      "removedFilename": "0678_meowstic_femelle_chromatique_2.png",
+      "oldFilename": "678_f2590_s.png",
+      "keptFilename": "0678_meowstic_femelle_chromatique.png",
+      "identicalBytes": true,
+      "removedSha256": "baa24b29ac0c91b167dbd99c2704ec38c338c1721dc06fb7bf1f736b3c6ed844",
+      "keptSha256": "baa24b29ac0c91b167dbd99c2704ec38c338c1721dc06fb7bf1f736b3c6ed844"
+    },
+    {
+      "removedFilename": "0678_meowstic_femelle_2.png",
+      "oldFilename": "678_f2590.png",
+      "keptFilename": "0678_meowstic_femelle.png",
+      "identicalBytes": true,
+      "removedSha256": "77058016dc605e5d183e5eeb9f21d3f4d333e84e2b0a2fe3680a868d1b60e1ed",
+      "keptSha256": "77058016dc605e5d183e5eeb9f21d3f4d333e84e2b0a2fe3680a868d1b60e1ed"
+    },
+    {
+      "removedFilename": "0801_magearna_shadow_chromatique_2.png",
+      "oldFilename": "801_f2721_a1_s.png",
+      "keptFilename": "0801_magearna_shadow_chromatique.png",
+      "identicalBytes": false,
+      "removedSha256": "8d2fb330f39de64c8e98ea284cd88a4f4757b53105d044b13a81ed81fc1ed50b",
+      "keptSha256": "d4b02d24b8b94f39fb3439fee9a65046b1edbbad0371eea63318832b598c9689"
+    },
+    {
+      "removedFilename": "0801_magearna_shadow_2.png",
+      "oldFilename": "801_f2721_a1.png",
+      "keptFilename": "0801_magearna_shadow.png",
+      "identicalBytes": false,
+      "removedSha256": "5249dae60f4b4ab8d13ee056248721de8e0c186199ffba688bedacc1150f56eb",
+      "keptSha256": "7433b229583e4ec7dc4129dda39c17e26d680e32d2c8d19b3906d0bc26cf00a1"
+    },
+    {
+      "removedFilename": "0801_magearna_purified_chromatique_2.png",
+      "oldFilename": "801_f2721_a2_s.png",
+      "keptFilename": "0801_magearna_purified_chromatique.png",
+      "identicalBytes": false,
+      "removedSha256": "5863fe8468b60243501f5d25a12bec3435bb77838f8df5ac95155b4dda75e746",
+      "keptSha256": "3fb8c9738cc8ba34e45b3d197a3a1eba8cd2d499fe28524e3b7c3ebc6c2cdfc9"
+    },
+    {
+      "removedFilename": "0801_magearna_purified_2.png",
+      "oldFilename": "801_f2721_a2.png",
+      "keptFilename": "0801_magearna_purified.png",
+      "identicalBytes": false,
+      "removedSha256": "6a62ba07beaac3ad6a0a45961e27f72b662add14e90dc0320b273a6cd1165022",
+      "keptSha256": "71cca9bd66ed76bb68233aec7feef6895445b1acc2d213e16d526986d16b0aee"
+    },
+    {
+      "removedFilename": "0801_magearna_dynamax_2.png",
+      "oldFilename": "801_b1_f2721.png",
+      "keptFilename": "0801_magearna_dynamax.png",
+      "identicalBytes": true,
+      "removedSha256": "ac0927d9f4ec66e76ada00de382698846fd69b62c576d8ca8a07a952a94155a6",
+      "keptSha256": "ac0927d9f4ec66e76ada00de382698846fd69b62c576d8ca8a07a952a94155a6"
+    },
+    {
+      "removedFilename": "0801_magearna_normal_chromatique_2.png",
+      "oldFilename": "801_f2721_s.png",
+      "keptFilename": "0801_magearna_normal_chromatique.png",
+      "identicalBytes": true,
+      "removedSha256": "41686aa7df7aa302b03bec0500c378902b8d3468b951e62f5dfdc2ad495b9a95",
+      "keptSha256": "41686aa7df7aa302b03bec0500c378902b8d3468b951e62f5dfdc2ad495b9a95"
+    },
+    {
+      "removedFilename": "0801_magearna_normal_2.png",
+      "oldFilename": "801_f2721.png",
+      "keptFilename": "0801_magearna_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "ea282d5d1e51076087803b97c9298e1944c5b818dc9a4ae34ea35ab0f7ce3e0b",
+      "keptSha256": "ea282d5d1e51076087803b97c9298e1944c5b818dc9a4ae34ea35ab0f7ce3e0b"
+    },
+    {
+      "removedFilename": "0808_meltan_normal_2.png",
+      "oldFilename": "808_f2321.png",
+      "keptFilename": "0808_meltan_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "c0608f8381bc6f840e9437c252f52d979586df79d2665a5d5b96a0bfcaca0970",
+      "keptSha256": "c0608f8381bc6f840e9437c252f52d979586df79d2665a5d5b96a0bfcaca0970"
+    },
+    {
+      "removedFilename": "0809_melmetal_normal_2.png",
+      "oldFilename": "809_f2324.png",
+      "keptFilename": "0809_melmetal_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "cdadd3da89f7b2d56c0cc221b6aba80bea22c3f685af5ef324bdaf8600d3b18d",
+      "keptSha256": "cdadd3da89f7b2d56c0cc221b6aba80bea22c3f685af5ef324bdaf8600d3b18d"
+    },
+    {
+      "removedFilename": "0864_cursola_normal_2.png",
+      "oldFilename": "864_f2507.png",
+      "keptFilename": "0864_cursola_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "0c971cd315c1aee4cf87d270dbe36ac83e315cccfeeef8291598885912a76d6f",
+      "keptSha256": "0c971cd315c1aee4cf87d270dbe36ac83e315cccfeeef8291598885912a76d6f"
+    },
+    {
+      "removedFilename": "0865_sirfetchd_purified_chromatique_2.png",
+      "oldFilename": "865_f2512_s.png",
+      "keptFilename": "0865_sirfetchd_purified_chromatique.png",
+      "identicalBytes": false,
+      "removedSha256": "a9a68076c3edb2525cb767c96b97833c82c285ee1bd377253d912c7f29f40dd6",
+      "keptSha256": "26582ca007231d6bea90b84f079e72e46bae5f5e7b04cdd342a864b21dcdaa71"
+    },
+    {
+      "removedFilename": "0866_mr_rime_normal_2.png",
+      "oldFilename": "866_f2513.png",
+      "keptFilename": "0866_mr_rime_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "062c24b03e5c19ebca09633f267698e9999d5c80f8a22a0823d9306c61652ba5",
+      "keptSha256": "062c24b03e5c19ebca09633f267698e9999d5c80f8a22a0823d9306c61652ba5"
+    },
+    {
+      "removedFilename": "0867_runerigus_normal_2.png",
+      "oldFilename": "867_f2516.png",
+      "keptFilename": "0867_runerigus_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "f3e4067a69171c439a869188c43955752416b3794b5e4c7adabfbb425407fce6",
+      "keptSha256": "f3e4067a69171c439a869188c43955752416b3794b5e4c7adabfbb425407fce6"
+    },
+    {
+      "removedFilename": "0876_indeedee_femelle_dynamax_2.png",
+      "oldFilename": "876_b1_f2543.png",
+      "keptFilename": "0876_indeedee_femelle_dynamax.png",
+      "identicalBytes": true,
+      "removedSha256": "7c0928930e7c51de202d9d740b4575e97f904ec7de88818795c832ec117381eb",
+      "keptSha256": "7c0928930e7c51de202d9d740b4575e97f904ec7de88818795c832ec117381eb"
+    },
+    {
+      "removedFilename": "0876_indeedee_femelle_2.png",
+      "oldFilename": "876_f2543.png",
+      "keptFilename": "0876_indeedee_femelle.png",
+      "identicalBytes": true,
+      "removedSha256": "06f825272e721337b9eb61639faec0a3d790cf0810e52b3b800fb1bb49379deb",
+      "keptSha256": "06f825272e721337b9eb61639faec0a3d790cf0810e52b3b800fb1bb49379deb"
+    },
+    {
+      "removedFilename": "0898_calyrex_normal_chromatique_2.png",
+      "oldFilename": "898_f2725_s.png",
+      "keptFilename": "0898_calyrex_normal_chromatique.png",
+      "identicalBytes": true,
+      "removedSha256": "9a5d0357da569c0bea4d1d1f81c687e338db739dbf6e35ebe640d7f0d1888681",
+      "keptSha256": "9a5d0357da569c0bea4d1d1f81c687e338db739dbf6e35ebe640d7f0d1888681"
+    },
+    {
+      "removedFilename": "0898_calyrex_normal_2.png",
+      "oldFilename": "898_f2725.png",
+      "keptFilename": "0898_calyrex_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "fcc4f796da8e5c0e704ae8bf69fcf9c1325489edcd7f310a6ac8881ba1590b32",
+      "keptSha256": "fcc4f796da8e5c0e704ae8bf69fcf9c1325489edcd7f310a6ac8881ba1590b32"
+    },
+    {
+      "removedFilename": "0902_basculegion_dynamax_2.png",
+      "oldFilename": "902_b1_f2807.png",
+      "keptFilename": "0902_basculegion_dynamax.png",
+      "identicalBytes": false,
+      "removedSha256": "b7c41ebaae6d23d804553b3cc80f8a7b9052312fe04eef4b8018ce93b510a4da",
+      "keptSha256": "c0bb6bd666fe46c45fde6c76c6c591aae0b552f973cd1ff9527756a41c8d815c"
+    },
+    {
+      "removedFilename": "0902_basculegion_normal_2.png",
+      "oldFilename": "902_f2807.png",
+      "keptFilename": "0902_basculegion_normal.png",
+      "identicalBytes": false,
+      "removedSha256": "163d7b0e6fafb29caceebe090f5ec33e3f2e40f5aaa9dbebb8ac5e186fe6aab3",
+      "keptSha256": "a5fdb6fe5b56fba37121bec563691f09d8277ef52b3750870b70a08cfbdccc3f"
+    },
+    {
+      "removedFilename": "0902_basculegion_femelle_2.png",
+      "oldFilename": "902_f2808.png",
+      "keptFilename": "0902_basculegion_femelle.png",
+      "identicalBytes": false,
+      "removedSha256": "50f69213fb8d88a170d529f9b35e4618d3a9f7345e0900b584e9e3719601175d",
+      "keptSha256": "689c18cafb2f305072c1558bcad2a16e9e98cfb85a189746147182ac2a2969b5"
+    },
+    {
+      "removedFilename": "0916_oinkologne_dynamax_2.png",
+      "oldFilename": "916_b1_f2981.png",
+      "keptFilename": "0916_oinkologne_dynamax.png",
+      "identicalBytes": true,
+      "removedSha256": "de1f3e72c95c25372c1a819eac3fe54172d950da1aa739997bf61e1d3c589a7e",
+      "keptSha256": "de1f3e72c95c25372c1a819eac3fe54172d950da1aa739997bf61e1d3c589a7e"
+    },
+    {
+      "removedFilename": "0916_oinkologne_normal_2.png",
+      "oldFilename": "916_f2981.png",
+      "keptFilename": "0916_oinkologne_normal.png",
+      "identicalBytes": true,
+      "removedSha256": "fcb3cd9cc250f78dd763340f10e5c7f238aee80e3b44e372242f1c92ea51ea94",
+      "keptSha256": "fcb3cd9cc250f78dd763340f10e5c7f238aee80e3b44e372242f1c92ea51ea94"
+    }
+  ]
+}
