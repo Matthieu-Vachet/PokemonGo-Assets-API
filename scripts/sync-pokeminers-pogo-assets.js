@@ -62,7 +62,21 @@ function extractZip() {
   rm(extractDir);
   mkdir(extractDir);
   console.log("[pokeminers] extraction zip");
-  run("unzip", ["-q", zipFile, "-d", extractDir], { stdio: "inherit" });
+  try {
+    run("unzip", ["-q", zipFile, "-d", extractDir], { stdio: "inherit" });
+  } catch (error) {
+    const fallback = commandExists("ditto") ? "ditto" : commandExists("bsdtar") ? "bsdtar" : null;
+    if (!fallback) throw error;
+
+    rm(extractDir);
+    mkdir(extractDir);
+    console.warn(`[pokeminers] unzip a échoué, nouvelle tentative avec ${fallback}`);
+    if (fallback === "ditto") {
+      run("ditto", ["-x", "-k", zipFile, extractDir], { stdio: "inherit" });
+    } else {
+      run("bsdtar", ["-xf", zipFile, "-C", extractDir], { stdio: "inherit" });
+    }
+  }
   const children = fs
     .readdirSync(extractDir)
     .map((entry) => path.join(extractDir, entry))
