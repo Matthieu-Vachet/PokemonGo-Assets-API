@@ -1,0 +1,21 @@
+name: Verify version
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  release-metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Vérifier version et changelog quand une release est requise
+        env:
+          RELEASE_GUARD_BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: python scripts/verify_release_change.py
