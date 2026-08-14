@@ -2,6 +2,17 @@
 
 ## Unreleased
 
+## 1.1.0 - 2026-08-14
+
+### Added
+
+- Ajoute les icônes SPRING_2020_NOEVOLVE normales et chromatiques manquantes pour plusieurs Pokémon des familles Bulbizarre, Salamèche et Carapuce.
+
+### Changed
+
+- Actualise les icônes principales, chromatiques, genrées, Costumes, Méga et Gigamax concernées pour les Pokédex 3 à 9.
+- Publie ces 62 fichiers sous `assetVersion` `2026.08.14.1` sans modifier les chemins raw existants.
+
 ## 1.0.0 - 2026-08-13
 
 ### Added
